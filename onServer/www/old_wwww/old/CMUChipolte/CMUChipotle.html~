@@ -1,0 +1,34 @@
+<html>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"  style="position:absolute;right:100px;top:150px;">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="GN2AUEMRAQS4E">
+<table>
+<tr><td><input type="hidden" name="on0" value="Filling">Filling</td></tr><tr><td><select name="os0">
+	<option value="Chicken">Chicken $10.00 USD</option>
+	<option value="Steak">Steak $11.00 USD</option>
+	<option value="Carnitas">Carnitas $10.00 USD</option>
+	<option value="Barbacoa">Barbacoa $10.00 USD</option>
+	<option value="Veggie">Veggie $10.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Burritos, Tacos &amp; More">Burritos, Tacos &amp; More</td></tr><tr><td><select name="os1">
+	<option value="Burrito">Burrito </option>
+	<option value="Bowl">Bowl </option>
+	<option value="Soft Tacos">Soft Tacos </option>
+	<option value="Crispy Tacos">Crispy Tacos </option>
+	<option value="Salad">Salad </option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on2" value="Notes and rice/salsa choice">Notes and rice/salsa choice</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<center>
+<img src="website.jpg" />
+<p>
+Don’t you wish you could save your time and not walk all the way to Pitt but still enjoy Chipotle? </p>
+<p> Now you can, simply tell us what you want from chipotle by the end of the day on Thursday September 20th and we will have it ready for you to pick up by Doherty Hall on Friday between 11:45am and 1:00pm
+</p>
+<p> email your questions to <a href="tdecker@andrew.cmu.edu">tdecker@andrew.cmu.edu </a></p>
+
+</Html>

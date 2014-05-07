@@ -1,0 +1,6 @@
+rdmarsh  pts/0        2014-05-07 12:32 (pool-173-79-12-106.washdc.fios.verizon.net)
+rdmarsh  pts/1        2014-05-07 12:32 (:pts/0:S.0)
+root     pts/3        2014-05-06 16:16 (haltija.ugrad.cs.cmu.edu)
+wanghp18 pts/4        2014-05-07 12:34 (wanghp18-pc.arc.cmu.edu)
+root     tty7         2014-05-07 14:42 (:0)
+shuaihan pts/6        2014-05-07 14:27 (cmu-851011.wv.cc.cmu.edu)

@@ -1,0 +1,6 @@
+boyay    pts/0        2014-05-07 12:33 (128.237.210.156)
+jiaxuw   pts/1        2014-05-07 09:51 (cmu-813844.gsia.cmu.edu)
+jiaxuw   pts/2        2014-05-07 09:51 (:pts/1:S.0)
+sluck    pts/3        2014-05-07 14:03 (128.237.192.50)
+tw       pts/5        2014-05-07 11:16 (lama.auton.cs.cmu.edu)
+dmovshov pts/8        2014-05-07 11:20 (gs10244.sp.cs.cmu.edu)

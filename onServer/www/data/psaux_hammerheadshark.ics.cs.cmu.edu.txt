@@ -1,0 +1,348 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  21448  1568 ?        Ss   06:02   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    06:02   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/0]
+root         4  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/0]
+root         6  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/0]
+root         7  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/1]
+root         8  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/1]
+root        10  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/1]
+root        11  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/2]
+root        12  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/2]
+root        13  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/2]
+root        14  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/2]
+root        15  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/3]
+root        16  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/3]
+root        17  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/3]
+root        18  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/3]
+root        19  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/4]
+root        20  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/4]
+root        21  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/4]
+root        22  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/4]
+root        23  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/5]
+root        24  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/5]
+root        25  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/5]
+root        26  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/5]
+root        27  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/6]
+root        28  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/6]
+root        29  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/6]
+root        30  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/6]
+root        31  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/7]
+root        32  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/7]
+root        33  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/7]
+root        34  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/7]
+root        35  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/8]
+root        36  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/8]
+root        37  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/8]
+root        38  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/8]
+root        39  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/9]
+root        40  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/9]
+root        41  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/9]
+root        42  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/9]
+root        43  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/10]
+root        44  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/10]
+root        45  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/10]
+root        46  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/10]
+root        47  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/11]
+root        48  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/11]
+root        49  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/11]
+root        50  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/11]
+root        51  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/12]
+root        52  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/12]
+root        53  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/12]
+root        54  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/12]
+root        55  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/13]
+root        56  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/13]
+root        57  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/13]
+root        58  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/13]
+root        59  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/14]
+root        60  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/14]
+root        61  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/14]
+root        62  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/14]
+root        63  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/15]
+root        64  0.0  0.0      0     0 ?        S    06:02   0:00 [migration/15]
+root        65  0.0  0.0      0     0 ?        S    06:02   0:00 [ksoftirqd/15]
+root        66  0.0  0.0      0     0 ?        S    06:02   0:00 [watchdog/15]
+root        67  0.0  0.0      0     0 ?        S    06:02   0:00 [events/0]
+root        68  0.0  0.0      0     0 ?        S    06:02   0:00 [events/1]
+root        69  0.0  0.0      0     0 ?        S    06:02   0:00 [events/2]
+root        70  0.0  0.0      0     0 ?        S    06:02   0:00 [events/3]
+root        71  0.0  0.0      0     0 ?        S    06:02   0:00 [events/4]
+root        72  0.0  0.0      0     0 ?        S    06:02   0:00 [events/5]
+root        73  0.0  0.0      0     0 ?        S    06:02   0:00 [events/6]
+root        74  0.0  0.0      0     0 ?        S    06:02   0:00 [events/7]
+root        75  0.0  0.0      0     0 ?        S    06:02   0:00 [events/8]
+root        76  0.0  0.0      0     0 ?        S    06:02   0:00 [events/9]
+root        77  0.0  0.0      0     0 ?        S    06:02   0:00 [events/10]
+root        78  0.0  0.0      0     0 ?        S    06:02   0:00 [events/11]
+root        79  0.0  0.0      0     0 ?        S    06:02   0:00 [events/12]
+root        80  0.0  0.0      0     0 ?        S    06:02   0:00 [events/13]
+root        81  0.0  0.0      0     0 ?        S    06:02   0:00 [events/14]
+root        82  0.0  0.0      0     0 ?        S    06:02   0:00 [events/15]
+root        83  0.0  0.0      0     0 ?        S    06:02   0:00 [cgroup]
+root        84  0.0  0.0      0     0 ?        S    06:02   0:00 [khelper]
+root        85  0.0  0.0      0     0 ?        S    06:02   0:00 [netns]
+root        86  0.0  0.0      0     0 ?        S    06:02   0:00 [async/mgr]
+root        87  0.0  0.0      0     0 ?        S    06:02   0:00 [pm]
+root        88  0.0  0.0      0     0 ?        S    06:02   0:00 [sync_supers]
+root        89  0.0  0.0      0     0 ?        S    06:02   0:00 [bdi-default]
+root        90  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/0]
+root        91  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/1]
+root        92  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/2]
+root        93  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/3]
+root        94  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/4]
+root        95  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/5]
+root        96  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/6]
+root        97  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/7]
+root        98  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/8]
+root        99  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/9]
+root       100  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/10]
+root       101  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/11]
+root       102  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/12]
+root       103  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/13]
+root       104  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/14]
+root       105  0.0  0.0      0     0 ?        S    06:02   0:00 [kintegrityd/15]
+root       106  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/0]
+root       107  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/1]
+root       108  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/2]
+root       109  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/3]
+root       110  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/4]
+root       111  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/5]
+root       112  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/6]
+root       113  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/7]
+root       114  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/8]
+root       115  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/9]
+root       116  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/10]
+root       117  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/11]
+root       118  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/12]
+root       119  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/13]
+root       120  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/14]
+root       121  0.0  0.0      0     0 ?        S    06:02   0:00 [kblockd/15]
+root       122  0.0  0.0      0     0 ?        S    06:02   0:00 [kacpid]
+root       123  0.0  0.0      0     0 ?        S    06:02   0:00 [kacpi_notify]
+root       124  0.0  0.0      0     0 ?        S    06:02   0:00 [kacpi_hotplug]
+root       125  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/0]
+root       126  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/1]
+root       127  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/2]
+root       128  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/3]
+root       129  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/4]
+root       130  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/5]
+root       131  0.0  0.0      0     0 ?        S    06:02   0:02 [ata/6]
+root       132  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/7]
+root       133  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/8]
+root       134  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/9]
+root       135  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/10]
+root       136  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/11]
+root       137  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/12]
+root       138  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/13]
+root       139  0.0  0.0      0     0 ?        S    06:02   0:01 [ata/14]
+root       140  0.0  0.0      0     0 ?        S    06:02   0:00 [ata/15]
+root       141  0.0  0.0      0     0 ?        S    06:02   0:00 [ata_aux]
+root       142  0.0  0.0      0     0 ?        S    06:02   0:00 [ksuspend_usbd]
+root       143  0.0  0.0      0     0 ?        S    06:02   0:00 [khubd]
+root       144  0.0  0.0      0     0 ?        S    06:02   0:00 [kseriod]
+root       145  0.0  0.0      0     0 ?        S    06:02   0:00 [md/0]
+root       146  0.0  0.0      0     0 ?        S    06:02   0:00 [md/1]
+root       147  0.0  0.0      0     0 ?        S    06:02   0:00 [md/2]
+root       148  0.0  0.0      0     0 ?        S    06:02   0:00 [md/3]
+root       149  0.0  0.0      0     0 ?        S    06:02   0:00 [md/4]
+root       150  0.0  0.0      0     0 ?        S    06:02   0:00 [md/5]
+root       151  0.0  0.0      0     0 ?        S    06:02   0:00 [md/6]
+root       152  0.0  0.0      0     0 ?        S    06:02   0:00 [md/7]
+root       153  0.0  0.0      0     0 ?        S    06:02   0:00 [md/8]
+root       154  0.0  0.0      0     0 ?        S    06:02   0:00 [md/9]
+root       155  0.0  0.0      0     0 ?        S    06:02   0:00 [md/10]
+root       156  0.0  0.0      0     0 ?        S    06:02   0:00 [md/11]
+root       157  0.0  0.0      0     0 ?        S    06:02   0:00 [md/12]
+root       158  0.0  0.0      0     0 ?        S    06:02   0:00 [md/13]
+root       159  0.0  0.0      0     0 ?        S    06:02   0:00 [md/14]
+root       160  0.0  0.0      0     0 ?        S    06:02   0:00 [md/15]
+root       161  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/0]
+root       162  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/1]
+root       163  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/2]
+root       164  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/3]
+root       165  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/4]
+root       166  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/5]
+root       167  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/6]
+root       168  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/7]
+root       169  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/8]
+root       170  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/9]
+root       171  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/10]
+root       172  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/11]
+root       173  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/12]
+root       174  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/13]
+root       175  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/14]
+root       176  0.0  0.0      0     0 ?        S    06:02   0:00 [md_misc/15]
+root       177  0.0  0.0      0     0 ?        S    06:02   0:00 [khungtaskd]
+root       178  0.0  0.0      0     0 ?        S    06:02   0:00 [kswapd0]
+root       179  0.0  0.0      0     0 ?        S    06:02   0:00 [kswapd1]
+root       180  0.0  0.0      0     0 ?        SN   06:02   0:00 [ksmd]
+root       181  0.0  0.0      0     0 ?        SN   06:02   0:00 [khugepaged]
+root       182  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/0]
+root       183  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/1]
+root       184  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/2]
+root       185  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/3]
+root       186  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/4]
+root       187  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/5]
+root       188  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/6]
+root       189  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/7]
+root       190  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/8]
+root       191  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/9]
+root       192  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/10]
+root       193  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/11]
+root       194  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/12]
+root       195  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/13]
+root       196  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/14]
+root       197  0.0  0.0      0     0 ?        S    06:02   0:00 [aio/15]
+root       198  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/0]
+root       199  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/1]
+root       200  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/2]
+root       201  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/3]
+root       202  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/4]
+root       203  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/5]
+root       204  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/6]
+root       205  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/7]
+root       206  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/8]
+root       207  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/9]
+root       208  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/10]
+root       209  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/11]
+root       210  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/12]
+root       211  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/13]
+root       212  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/14]
+root       213  0.0  0.0      0     0 ?        S    06:02   0:00 [crypto/15]
+root       218  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/0]
+root       219  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/1]
+root       220  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/2]
+root       221  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/3]
+root       222  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/4]
+root       223  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/5]
+root       224  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/6]
+root       225  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/7]
+root       226  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/8]
+root       227  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/9]
+root       228  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/10]
+root       229  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/11]
+root       230  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/12]
+root       231  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/13]
+root       232  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/14]
+root       233  0.0  0.0      0     0 ?        S    06:02   0:00 [kthrotld/15]
+root       234  0.1  0.0      0     0 ?        SN   06:02   0:44 [kipmi0]
+root       236  0.0  0.0      0     0 ?        S    06:02   0:00 [kpsmoused]
+root       237  0.0  0.0      0     0 ?        S    06:02   0:00 [usbhid_resumer]
+root       269  0.0  0.0      0     0 ?        S    06:02   0:00 [kstriped]
+root       413  0.0  0.0      0     0 ?        S    06:02   0:00 [mpt_poll_0]
+root       414  0.0  0.0      0     0 ?        S    06:02   0:00 [mpt/0]
+root       417  0.0  0.0      0     0 ?        S    06:02   0:00 [scsi_eh_0]
+root       429  0.0  0.0      0     0 ?        S    06:02   0:00 [scsi_eh_1]
+root       430  0.0  0.0      0     0 ?        S    06:02   0:00 [scsi_eh_2]
+root       433  0.0  0.0      0     0 ?        S    06:02   0:07 [scsi_eh_3]
+root       434  0.0  0.0      0     0 ?        S    06:02   0:00 [scsi_eh_4]
+root       510  0.0  0.0      0     0 ?        S    06:02   0:00 [kdmflush]
+root       522  0.0  0.0      0     0 ?        S    06:02   0:00 [jbd2/dm-0-8]
+root       523  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       524  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       525  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       526  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       527  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       528  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       529  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       530  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       531  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       532  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       533  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       534  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       535  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       536  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       537  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       538  0.0  0.0      0     0 ?        S    06:02   0:00 [ext4-dio-unwrit]
+root       623  0.0  0.0  10988  1092 ?        S<s  06:02   0:00 /sbin/udevd -d
+root       857  0.0  0.0      0     0 ?        S    06:02   0:00 [edac-poller]
+root      1185  0.0  0.0      0     0 ?        S    06:02   0:00 [kvm-irqfd-clean]
+root      1233  0.0  0.0      0     0 ?        S    06:02   0:00 [kjournald]
+root      1282  0.0  0.0      0     0 ?        S    06:02   0:00 [kauditd]
+root      1447  0.0  0.0      0     0 ?        S    06:02   0:00 [flush-253:0]
+root      1601  0.0  0.0  27664   852 ?        S<sl 06:03   0:00 auditd
+root      1626  0.0  0.0 249096  1704 ?        Sl   06:03   0:00 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5
+root      1655  0.0  0.0  10840   688 ?        Ss   06:03   0:11 irqbalance --pid=/var/run/irqbalance.pid
+rpc       1669  0.0  0.0  18976   896 ?        Ss   06:03   0:00 rpcbind
+dbus      1807  0.0  0.0  23892  1412 ?        Ss   06:03   0:00 dbus-daemon --system
+root      1817  0.0  0.0 100472  5856 ?        Ssl  06:03   0:00 NetworkManager --pid-file=/var/run/NetworkManager/NetworkManager.pid
+root      1821  0.0  0.0  58048  2564 ?        S    06:03   0:00 /usr/sbin/modem-manager
+rpcuser   1836  0.0  0.0  23348  1348 ?        Ss   06:03   0:00 rpc.statd
+nslcd     1845  0.0  0.0 450968  4664 ?        Ssl  06:03   0:01 /usr/sbin/nslcd
+root      1887  0.0  0.0 189468  3536 ?        Ss   06:03   0:00 cupsd -C /etc/cups/cupsd.conf
+root      1890  0.0  0.0   9120  1536 ?        S    06:03   0:00 /sbin/dhclient -d -4 -sf /usr/libexec/nm-dhcp-client.action -pf /var/run/dhclient-em1.pid -lf /var/lib/dhclient/dhclient-1dad842d-1912-ef5a-a43a-bc238fb267e7-em1.lease -cf /var/run/nm-dhclient-em1.conf em1
+root      1917  0.0  0.0   4080   636 ?        Ss   06:03   0:00 /usr/sbin/acpid
+68        1926  0.0  0.0  40988  5504 ?        Ssl  06:03   0:00 hald
+root      1927  0.0  0.0  20324  1352 ?        S    06:03   0:00 hald-runner
+68        2013  0.0  0.0  17932  1136 ?        S    06:04   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+root      2017  0.0  0.0  22444  1280 ?        S    06:04   0:00 hald-addon-input: Listening on /dev/input/event3 /dev/input/event2 /dev/input/event0
+root      2018  0.0  0.0  22440  1292 ?        D    06:04   0:08 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+root      2040  0.0  0.0  91272  1672 ?        Ssl  06:04   0:00 pcscd
+root      2056  0.0  0.0 390032  2212 ?        Ssl  06:04   0:00 automount --pid-file /var/run/autofs.pid
+nscd      2073  0.0  0.0 902620  1576 ?        Ssl  06:04   0:00 /usr/sbin/nscd
+root      2104  0.0  0.0   5908   348 ?        Ss   06:04   0:00 /usr/sbin/mcelog --daemon
+root      2113  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_pagecopy]
+root      2119  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_callback]
+root      2120  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_rxlistener]
+root      2121  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_rxevent]
+root      2122  0.0  0.0   6564   404 ?        Ss   06:04   0:00 /usr/vice/etc/afsd -dynroot -fakestat -afsdb
+root      2126  0.0  0.0      0     0 ?        S    06:04   0:00 [afsd]
+root      2128  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_checkserver]
+root      2130  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_background]
+root      2132  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_background]
+root      2134  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_background]
+root      2135  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_background]
+root      2137  0.0  0.0      0     0 ?        S    06:04   0:00 [afs_cachetrim]
+root      2149  0.0  0.0  66264  1220 ?        Ss   06:04   0:00 /usr/sbin/sshd
+root      2157  0.0  0.0  24152   960 ?        Ss   06:04   0:00 xinetd -stayalive -pidfile /var/run/xinetd.pid
+ntp       2165  0.0  0.0  26788  1804 ?        Ss   06:04   0:00 ntpd -u ntp:ntp -p /var/run/ntpd.pid -g
+root      2245  0.0  0.0  81576  3352 ?        Ss   06:04   0:00 /usr/libexec/postfix/master
+postfix   2260  0.0  0.0  81612  3344 ?        S    06:04   0:00 qmgr -l -t fifo -u
+root      2269  0.0  0.0 109976   872 ?        Ss   06:04   0:00 /usr/sbin/abrtd
+root      2277  0.0  0.0 108204   964 ?        Ss   06:04   0:00 abrt-dump-oops -d /var/spool/abrt -rwx /var/log/messages
+root      2290  0.0  0.0   6736   532 ?        Ss   06:04   0:00 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      2300  0.0  0.0 107828   908 ?        S    06:04   0:00 /bin/bash /usr/sbin/ksmtuned
+root      2309  0.0  0.0 116956   992 ?        Ss   06:04   0:00 crond
+root      2320  0.0  0.0  21408   468 ?        Ss   06:04   0:00 /usr/sbin/atd
+root      2339  0.0  0.0 100920   684 ?        Ss   06:04   0:00 rhnsd
+root      2347  0.0  0.0 104016   672 ?        Ss   06:04   0:00 /usr/bin/rhsmcertd
+root      2385  0.0  0.0 133800  2264 ?        Ssl  06:04   0:00 /usr/sbin/gdm-binary -nodaemon
+root      2390  0.0  0.0   4060   576 tty2     Ss+  06:04   0:00 /sbin/mingetty /dev/tty2
+root      2392  0.0  0.0   4060   576 tty3     Ss+  06:04   0:00 /sbin/mingetty /dev/tty3
+root      2394  0.0  0.0   4060   572 tty4     Ss+  06:04   0:00 /sbin/mingetty /dev/tty4
+root      2396  0.0  0.0   4060   572 tty5     Ss+  06:04   0:00 /sbin/mingetty /dev/tty5
+root      2398  0.0  0.0   4060   572 tty6     Ss+  06:04   0:00 /sbin/mingetty /dev/tty6
+root      2400  0.0  0.0  11172  1268 ?        S<   06:04   0:00 /sbin/udevd -d
+root      2401  0.0  0.0  11172  1268 ?        S<   06:04   0:00 /sbin/udevd -d
+root      2431  0.0  0.0 164560  3728 ?        Sl   06:04   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1 --force-active-vt
+root      2434  0.0  0.1 160760 30024 tty1     Ss+  06:04   0:14 /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-MJhkEp/database -nolisten tcp vt1
+root      2450  0.0  0.0 4116464 3824 ?        Sl   06:04   0:00 /usr/sbin/console-kit-daemon --no-daemon
+gdm       2520  0.0  0.0  19692   776 ?        S    06:04   0:00 /usr/bin/dbus-launch --exit-with-session
+gdm       2521  0.0  0.0  21404   928 ?        Ss   06:04   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+gdm       2522  0.0  0.0 266664  8592 ?        Ssl  06:04   0:00 /usr/bin/gnome-session --autostart=/usr/share/gdm/autostart/LoginWindow/
+root      2525  0.0  0.0  49820  3104 ?        S    06:04   0:00 /usr/libexec/devkit-power-daemon
+gdm       2529  0.0  0.0 133264  5872 ?        S    06:04   0:00 /usr/libexec/gconfd-2
+gdm       2544  0.0  0.0 119968  5856 ?        S    06:04   0:00 /usr/libexec/at-spi-registryd
+gdm       2548  0.1  0.1 385364 31272 ?        Ssl  06:04   0:43 /usr/libexec/gnome-settings-daemon --gconf-prefix=/apps/gdm/simple-greeter/settings-manager-plugins
+gdm       2550  0.0  0.0 358020  5668 ?        Ssl  06:04   0:00 /usr/libexec/bonobo-activation-server --ac-activate --ior-output-fd=12
+gdm       2557  0.0  0.0 135100  2188 ?        S    06:04   0:00 /usr/libexec/gvfsd
+gdm       2558  0.0  0.0 303132 10544 ?        S    06:04   0:00 metacity
+gdm       2559  0.0  0.0 271348  9368 ?        S    06:04   0:00 gnome-power-manager
+gdm       2560  0.0  0.0 405996 17300 ?        S    06:04   0:00 /usr/libexec/gdm-simple-greeter
+gdm       2563  0.0  0.0 245828  8052 ?        S    06:04   0:00 /usr/libexec/polkit-gnome-authentication-agent-1
+root      2567  0.0  0.0  52340  4336 ?        S    06:04   0:00 /usr/libexec/polkit-1/polkitd
+gdm       2574  0.0  0.0 346176  2932 ?        S<sl 06:04   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     2576  0.0  0.0 168108  1164 ?        SNl  06:04   0:00 /usr/libexec/rtkit-daemon
+root      2581  0.0  0.0 193116  3072 ?        S    06:05   0:00 pam: gdm-password
+root      2584  0.0  0.0  44964  1036 ?        Ss   06:05   0:00 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -B -u -f /var/log/wpa_supplicant.log -P /var/run/wpa_supplicant.pid
+postfix   8027  0.0  0.0  81444  3292 ?        S    14:24   0:00 pickup -l -t fifo -u
+root      8266  0.0  0.0      0     0 ?        S    14:38   0:00 [flush-afs]
+root      9124  0.2  0.0 102632  4628 ?        Ss   14:42   0:00 sshd: tdecker [priv]
+root      9133  0.0  0.0 100904   596 ?        S    14:42   0:00 sleep 60
+tdecker   9141  0.0  0.0 102632  2084 ?        S    14:42   0:00 sshd: tdecker@notty
+tdecker   9142  9.0  0.0 111024  1420 ?        Ss   14:42   0:00 csh -c sh getData.sh
+tdecker   9159  0.0  0.0 106060  1332 ?        S    14:42   0:00 sh getData.sh
+tdecker   9164  1.0  0.0 109892  1120 ?        R    14:42   0:00 ps aux

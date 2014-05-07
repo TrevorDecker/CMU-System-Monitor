@@ -1,0 +1,8 @@
+kissling pts/0        2014-05-07 09:31 (kisslinger1213.phys.cmu.edu)
+clgreen  pts/2        2014-05-07 14:31 (c-98-239-128-76.hsd1.pa.comcast.net)
+prabhatk pts/3        2014-05-07 12:27 (128.237.170.123)
+stroucki pts/4        2014-05-07 10:53 (pool-108-39-228-98.pitbpa.fios.verizon.net)
+nicolepa pts/5        2014-05-07 11:33 (wstaff-ms-dip24.nat.okstate.edu)
+yutongz  pts/6        2014-05-07 12:10 (c-67-186-7-4.hsd1.pa.comcast.net)
+rspatil  pts/8        2014-05-07 13:10 (c-98-239-129-214.hsd1.pa.comcast.net)
+hsimhadr pts/9        2014-05-07 14:07 (98-fe-94-45-32-20.dhcp.lbnl.us)

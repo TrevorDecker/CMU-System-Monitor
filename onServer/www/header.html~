@@ -1,0 +1,29 @@
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+     <div class="masthead clearfix">
+            <div class="inner">
+		 <div style="position:fixed;
+               background: -webkit-linear-gradient(rgba(105,101,101,100), rgba(38,36,36,100)); /* For Safari 5.1 to 6.0 */
+               background: -o-linear-gradient(rgba(105,101,101,100), rgba(38,36,36,100)); /* For Opera 11.1 to 12.0 */
+               background: -moz-linear-gradient(rgba(105,101,101,100), rgba(38,36,36,100)); /* For Firefox 3.6 to 15 */
+               background: radial-gradient(rgba(105,101,101,100), rgba(38,36,36,100)); /* Standard syntax (must be last) */
+//background-color:rgba(105,101,101,100); width:60%; left:0%; padding-left:20%;padding-right:20%;
+                     padding-top: 5%; margin-top:-5%;  z-index:1000;">
+
+
+	 <h3 class="masthead-brand"><img src="img/logo.00_png_srz" width = 30px  style="margin-bottom:-8px"/>  &nbsp;CMU Linux Clusters Usage</h3>
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="map.html">Find a Cluster</a></li>
+                <li><a href="index.php#about" >About The Site</a></li>
+                <li><a href="index.php#Contact" >Contact Us</a></li>
+              </ul>
+            </div>
+</div>
+          </div>
+</div>
+</div>
+

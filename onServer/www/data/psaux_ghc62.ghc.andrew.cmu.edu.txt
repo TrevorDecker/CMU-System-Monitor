@@ -1,0 +1,186 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  21448  1384 ?        Ss   Apr30   0:02 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Apr30   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/0]
+root         4  0.0  0.0      0     0 ?        S    Apr30   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/0]
+root         6  0.0  0.0      0     0 ?        S    Apr30   0:00 [watchdog/0]
+root         7  0.0  0.0      0     0 ?        S    Apr30   0:01 [migration/1]
+root         8  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    Apr30   0:00 [ksoftirqd/1]
+root        10  0.0  0.0      0     0 ?        S    Apr30   0:00 [watchdog/1]
+root        11  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/2]
+root        12  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/2]
+root        13  0.0  0.0      0     0 ?        S    Apr30   0:00 [ksoftirqd/2]
+root        14  0.0  0.0      0     0 ?        S    Apr30   0:00 [watchdog/2]
+root        15  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/3]
+root        16  0.0  0.0      0     0 ?        S    Apr30   0:00 [migration/3]
+root        17  0.0  0.0      0     0 ?        S    Apr30   0:00 [ksoftirqd/3]
+root        18  0.0  0.0      0     0 ?        S    Apr30   0:00 [watchdog/3]
+root        19  0.0  0.0      0     0 ?        S    Apr30   0:02 [events/0]
+root        20  0.0  0.0      0     0 ?        S    Apr30   0:13 [events/1]
+root        21  0.0  0.0      0     0 ?        S    Apr30   0:10 [events/2]
+root        22  0.0  0.0      0     0 ?        S    Apr30   0:04 [events/3]
+root        23  0.0  0.0      0     0 ?        S    Apr30   0:00 [cgroup]
+root        24  0.0  0.0      0     0 ?        S    Apr30   0:00 [khelper]
+root        25  0.0  0.0      0     0 ?        S    Apr30   0:00 [netns]
+root        26  0.0  0.0      0     0 ?        S    Apr30   0:00 [async/mgr]
+root        27  0.0  0.0      0     0 ?        S    Apr30   0:00 [pm]
+root        28  0.0  0.0      0     0 ?        S    Apr30   0:00 [sync_supers]
+root        29  0.0  0.0      0     0 ?        S    Apr30   0:00 [bdi-default]
+root        30  0.0  0.0      0     0 ?        S    Apr30   0:00 [kintegrityd/0]
+root        31  0.0  0.0      0     0 ?        S    Apr30   0:00 [kintegrityd/1]
+root        32  0.0  0.0      0     0 ?        S    Apr30   0:00 [kintegrityd/2]
+root        33  0.0  0.0      0     0 ?        S    Apr30   0:00 [kintegrityd/3]
+root        34  0.0  0.0      0     0 ?        S    Apr30   0:02 [kblockd/0]
+root        35  0.0  0.0      0     0 ?        S    Apr30   0:24 [kblockd/1]
+root        36  0.0  0.0      0     0 ?        S    Apr30   0:31 [kblockd/2]
+root        37  0.0  0.0      0     0 ?        S    Apr30   0:11 [kblockd/3]
+root        38  0.0  0.0      0     0 ?        S    Apr30   0:00 [kacpid]
+root        39  0.0  0.0      0     0 ?        S    Apr30   0:00 [kacpi_notify]
+root        40  0.0  0.0      0     0 ?        S    Apr30   0:00 [kacpi_hotplug]
+root        41  0.0  0.0      0     0 ?        S    Apr30   0:06 [ata/0]
+root        42  0.0  0.0      0     0 ?        S    Apr30   0:04 [ata/1]
+root        43  0.0  0.0      0     0 ?        S    Apr30   0:03 [ata/2]
+root        44  0.0  0.0      0     0 ?        S    Apr30   0:01 [ata/3]
+root        45  0.0  0.0      0     0 ?        S    Apr30   0:00 [ata_aux]
+root        46  0.0  0.0      0     0 ?        S    Apr30   0:00 [ksuspend_usbd]
+root        47  0.0  0.0      0     0 ?        S    Apr30   0:00 [khubd]
+root        48  0.0  0.0      0     0 ?        S    Apr30   0:00 [kseriod]
+root        49  0.0  0.0      0     0 ?        S    Apr30   0:00 [md/0]
+root        50  0.0  0.0      0     0 ?        S    Apr30   0:00 [md/1]
+root        51  0.0  0.0      0     0 ?        S    Apr30   0:00 [md/2]
+root        52  0.0  0.0      0     0 ?        S    Apr30   0:00 [md/3]
+root        53  0.0  0.0      0     0 ?        S    Apr30   0:00 [md_misc/0]
+root        54  0.0  0.0      0     0 ?        S    Apr30   0:00 [md_misc/1]
+root        55  0.0  0.0      0     0 ?        S    Apr30   0:00 [md_misc/2]
+root        56  0.0  0.0      0     0 ?        S    Apr30   0:00 [md_misc/3]
+root        57  0.0  0.0      0     0 ?        S    Apr30   0:00 [khungtaskd]
+root        58  0.1  0.0      0     0 ?        S    Apr30   1:27 [kswapd0]
+root        59  0.0  0.0      0     0 ?        SN   Apr30   0:00 [ksmd]
+root        60  0.0  0.0      0     0 ?        SN   Apr30   0:02 [khugepaged]
+root        61  0.0  0.0      0     0 ?        S    Apr30   0:00 [aio/0]
+root        62  0.0  0.0      0     0 ?        S    Apr30   0:00 [aio/1]
+root        63  0.0  0.0      0     0 ?        S    Apr30   0:00 [aio/2]
+root        64  0.0  0.0      0     0 ?        S    Apr30   0:00 [aio/3]
+root        65  0.0  0.0      0     0 ?        S    Apr30   0:00 [crypto/0]
+root        66  0.0  0.0      0     0 ?        S    Apr30   0:00 [crypto/1]
+root        67  0.0  0.0      0     0 ?        S    Apr30   0:00 [crypto/2]
+root        68  0.0  0.0      0     0 ?        S    Apr30   0:00 [crypto/3]
+root        73  0.0  0.0      0     0 ?        S    Apr30   0:00 [kthrotld/0]
+root        74  0.0  0.0      0     0 ?        S    Apr30   0:00 [kthrotld/1]
+root        75  0.0  0.0      0     0 ?        S    Apr30   0:00 [kthrotld/2]
+root        76  0.0  0.0      0     0 ?        S    Apr30   0:00 [kthrotld/3]
+root        78  0.0  0.0      0     0 ?        S    Apr30   0:00 [kpsmoused]
+root        79  0.0  0.0      0     0 ?        S    Apr30   0:00 [usbhid_resumer]
+root       110  0.0  0.0      0     0 ?        S    Apr30   0:00 [kstriped]
+root       286  0.0  0.0      0     0 ?        S    Apr30   0:00 [scsi_eh_0]
+root       287  0.0  0.0      0     0 ?        S    Apr30   0:32 [scsi_eh_1]
+root       289  0.0  0.0      0     0 ?        S    Apr30   0:00 [scsi_eh_2]
+root       290  0.0  0.0      0     0 ?        S    Apr30   0:00 [scsi_eh_3]
+root       377  0.0  0.0      0     0 ?        S    Apr30   0:01 [kdmflush]
+root       391  0.0  0.0      0     0 ?        S    Apr30   0:24 [jbd2/dm-0-8]
+root       392  0.0  0.0      0     0 ?        S    Apr30   0:00 [ext4-dio-unwrit]
+root       393  0.0  0.0      0     0 ?        S    Apr30   0:00 [ext4-dio-unwrit]
+root       394  0.0  0.0      0     0 ?        S    Apr30   0:00 [ext4-dio-unwrit]
+root       395  0.0  0.0      0     0 ?        S    Apr30   0:00 [ext4-dio-unwrit]
+root       406  0.1  0.0      0     0 ?        S    Apr30   2:09 [flush-253:0]
+root       489  0.0  0.0  11016   564 ?        S<s  Apr30   0:00 /sbin/udevd -d
+root       603  0.0  0.0      0     0 ?        S    Apr30   0:00 [edac-poller]
+root       611  0.0  0.0      0     0 ?        S    Apr30   0:00 [hd-audio0]
+root       614  0.0  0.0      0     0 ?        S    Apr30   0:00 [hd-audio1]
+root       913  0.0  0.0      0     0 ?        S    Apr30   0:00 [kvm-irqfd-clean]
+root       963  0.0  0.0      0     0 ?        S    Apr30   0:00 [kjournald]
+root      1075  0.0  0.0      0     0 ?        S    Apr30   0:00 [kauditd]
+root      1304  0.0  0.0   9120   540 ?        Ss   Apr30   0:00 /sbin/dhclient -1 -q -cf /etc/dhcp/dhclient-eth0.conf -lf /var/lib/dhclient/dhclient-eth0.leases -pf /var/run/dhclient-eth0.pid eth0
+nslcd     1364  0.0  0.0 450968  3680 ?        Ssl  Apr30   0:00 /usr/sbin/nslcd
+root      1377  0.0  0.0 257476  2192 ?        Sl   Apr30   0:02 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5
+root      1406  0.0  0.0  10820   532 ?        Ss   Apr30   0:03 irqbalance --pid=/var/run/irqbalance.pid
+rpc       1420  0.0  0.0  18976   864 ?        Ss   Apr30   0:00 rpcbind
+rpcuser   1438  0.0  0.0  23348   852 ?        Ss   Apr30   0:00 rpc.statd
+root      1524  0.0  0.0 186572   672 ?        Ssl  Apr30   0:00 /usr/lib/vmware/bin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root      1550  0.0  0.0  23580   532 ?        Ss   Apr30   0:01 /usr/sbin/vmware-authdlauncher
+root      2137  0.0  0.0      0     0 ?        S    Apr30   0:00 [iprt/0]
+root      2138  0.0  0.0      0     0 ?        S    Apr30   0:00 [iprt/1]
+root      2139  0.0  0.0      0     0 ?        S    Apr30   0:00 [iprt/2]
+root      2140  0.0  0.0      0     0 ?        S    Apr30   0:00 [iprt/3]
+dbus      2156  0.0  0.0  24344  1664 ?        Ss   Apr30   0:00 dbus-daemon --system
+root      2179  0.0  0.0 189752  3476 ?        Ss   Apr30   0:00 cupsd -C /etc/cups/cupsd.conf
+root      2204  0.0  0.0   4080   620 ?        Ss   Apr30   0:00 /usr/sbin/acpid
+68        2213  0.0  0.0  41156  3488 ?        Ssl  Apr30   0:00 hald
+root      2214  0.0  0.0  20324  1148 ?        S    Apr30   0:00 hald-runner
+root      2255  0.0  0.0  22444  1168 ?        S    Apr30   0:00 hald-addon-input: Listening on /dev/input/event4 /dev/input/event3 /dev/input/event0 /dev/input/event1
+root      2259  0.0  0.0  22440  1160 ?        S    Apr30   0:35 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+68        2260  0.0  0.0  17932   968 ?        S    Apr30   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+root      2282  0.0  0.0  91272   808 ?        Ssl  Apr30   0:00 pcscd
+root      2298  0.0  0.0 390032  1636 ?        Ssl  Apr30   0:00 automount --pid-file /var/run/autofs.pid
+nscd      2315  0.0  0.0 970208  1736 ?        Ssl  Apr30   0:03 /usr/sbin/nscd
+root      2472  0.0  0.0   4632   504 ?        Ss   Apr30   0:00 /usr/sbin/mcelog --daemon
+root      2482  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_pagecopy]
+root      2488  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_callback]
+root      2489  0.0  0.0   7172   848 ?        Ss   Apr30   0:00 /usr/vice/etc/afsd -dynroot -fakestat -afsdb
+root      2490  0.0  0.0      0     0 ?        S    Apr30   0:02 [afs_rxlistener]
+root      2491  0.0  0.0      0     0 ?        S    Apr30   0:02 [afs_rxevent]
+root      2494  0.0  0.0      0     0 ?        S    Apr30   0:01 [afsd]
+root      2497  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_checkserver]
+root      2498  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_background]
+root      2500  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_background]
+root      2502  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_background]
+root      2503  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_background]
+root      2505  0.0  0.0      0     0 ?        S    Apr30   0:00 [afs_cachetrim]
+root      2515  0.0  0.0  22172  1104 ?        Ss   Apr30   0:01 /usr/bin/vmware-usbarbitrator
+root      2548  0.0  0.0  64988  1224 ?        Ss   Apr30   0:00 /usr/sbin/sshd
+root      2556  0.0  0.0  23276   952 ?        Ss   Apr30   0:00 xinetd -stayalive -pidfile /var/run/xinetd.pid
+root      2636  0.0  0.0  82052  3340 ?        Ss   Apr30   0:00 /usr/libexec/postfix/master
+postfix   2645  0.0  0.0  81688  3284 ?        S    Apr30   0:00 qmgr -l -t fifo -u
+root      2660  0.0  0.0 108764  1000 ?        Ss   Apr30   0:01 /usr/sbin/abrtd
+root      2668  0.0  0.0 108204   984 ?        Ss   Apr30   0:00 abrt-dump-oops -d /var/spool/abrt -rwx /var/log/messages
+root      2681  0.0  0.0   6736   528 ?        Ss   Apr30   0:01 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      2691  0.0  0.0 106552   928 ?        S    Apr30   0:01 /bin/bash /usr/sbin/ksmtuned
+root      2700  0.0  0.0 115680  1016 ?        Ss   Apr30   0:00 crond
+root      2711  0.0  0.0  20132   464 ?        Ss   Apr30   0:00 /usr/sbin/atd
+root      2727  0.0  0.0 491544  2668 ?        Ssl  Apr30   0:00 /usr/libexec/karl
+root      2748  0.0  0.0 100920   684 ?        Ss   Apr30   0:00 rhnsd
+root      2757  0.0  0.0 104016   676 ?        Ss   Apr30   0:00 /usr/bin/rhsmcertd
+root      2780  0.0  0.0 132524  2248 ?        Ssl  Apr30   0:00 /usr/sbin/gdm-binary -nodaemon
+root      2785  0.0  0.0   4060   564 tty2     Ss+  Apr30   0:00 /sbin/mingetty /dev/tty2
+root      2787  0.0  0.0   4060   568 tty3     Ss+  Apr30   0:00 /sbin/mingetty /dev/tty3
+root      2789  0.0  0.0   4060   564 tty4     Ss+  Apr30   0:00 /sbin/mingetty /dev/tty4
+root      2791  0.0  0.0   4060   564 tty5     Ss+  Apr30   0:00 /sbin/mingetty /dev/tty5
+root      2793  0.0  0.0   4060   568 tty6     Ss+  Apr30   0:00 /sbin/mingetty /dev/tty6
+root      2796  0.0  0.0  11016   624 ?        S<   Apr30   0:00 /sbin/udevd -d
+root      2837  0.0  0.0  11016   640 ?        S<   Apr30   0:00 /sbin/udevd -d
+root      2850  0.0  0.0 2087052 3916 ?        Sl   Apr30   0:00 /usr/sbin/console-kit-daemon --no-daemon
+root      2925  0.0  0.0  49820  3056 ?        S    Apr30   0:00 /usr/libexec/devkit-power-daemon
+root      2962  0.0  0.0  50976  4148 ?        S    Apr30   0:00 /usr/libexec/polkit-1/polkitd
+rtkit     2976  0.0  0.0 166832  1168 ?        SNl  Apr30   0:01 /usr/libexec/rtkit-daemon
+hadoop    3046  4.1  3.0 4599272 374264 ?      SNl  Apr30  55:49 /usr/lib/jvm/java/bin/java -Dproc_datanode -Xmx2000m -server -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote -Dhadoop.log.dir=/var/local/hadoop/logs -Dhadoop.log.file=hadoop-hadoop-datanode-ghc62.ghc.andrew.cmu.edu.log -Dhadoop.home.dir=/usr/local/hadoop-1.0.1/libexec/.. -Dhadoop.id.str=hadoop -Dhadoop.root.logger=INFO,DRFA -Dhadoop.security.logger=INFO,NullAppender -Djava.library.path=/usr/local/hadoop-1.0.1/libexec/../lib/native/Linux-amd64-64 -Dhadoop.policy.file=hadoop-policy.xml -classpath /usr/local/hadoop-1.0.1/libexec/../conf:/usr/lib/jvm/java/lib/tools.jar:/usr/local/hadoop-1.0.1/libexec/..:/usr/local/hadoop-1.0.1/libexec/../hadoop-core-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/asm-3.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjrt-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjtools-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-1.7.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-core-1.8.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-cli-1.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-codec-1.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-collections-3.2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-configuration-1.6.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-daemon-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-digester-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-el-1.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-httpclient-3.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-lang-2.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-1.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-api-1.0.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-math-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-net-1.4.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/core-3.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-capacity-scheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-fairscheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-thriftfs-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hsqldb-1.8.0.10.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-core-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-mapper-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-compiler-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-runtime-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jdeb-0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-core-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-json-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-server-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jets3t-0.6.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-util-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsch-0.1.42.jar:/usr/local/hadoop-1.0.1/libexec/../lib/junit-4.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/kfs-0.2.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/log4j-1.2.15.jar:/usr/local/hadoop-1.0.1/libexec/../lib/mockito-all-1.8.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/oro-2.0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/servlet-api-2.5-20081211.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-api-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-log4j12-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/xmlenc-0.52.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-api-2.1.jar org.apache.hadoop.hdfs.server.datanode.DataNode
+hadoop    3134  0.0  0.8 4589792 109508 ?      SNl  Apr30   1:04 /usr/lib/jvm/java/bin/java -Dproc_tasktracker -Xmx2000m -Dhadoop.log.dir=/var/local/hadoop/logs -Dhadoop.log.file=hadoop-hadoop-tasktracker-ghc62.ghc.andrew.cmu.edu.log -Dhadoop.home.dir=/usr/local/hadoop-1.0.1/libexec/.. -Dhadoop.id.str=hadoop -Dhadoop.root.logger=INFO,DRFA -Dhadoop.security.logger=INFO,NullAppender -Djava.library.path=/usr/local/hadoop-1.0.1/libexec/../lib/native/Linux-amd64-64 -Dhadoop.policy.file=hadoop-policy.xml -classpath /usr/local/hadoop-1.0.1/libexec/../conf:/usr/lib/jvm/java/lib/tools.jar:/usr/local/hadoop-1.0.1/libexec/..:/usr/local/hadoop-1.0.1/libexec/../hadoop-core-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/asm-3.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjrt-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjtools-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-1.7.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-core-1.8.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-cli-1.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-codec-1.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-collections-3.2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-configuration-1.6.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-daemon-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-digester-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-el-1.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-httpclient-3.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-lang-2.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-1.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-api-1.0.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-math-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-net-1.4.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/core-3.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-capacity-scheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-fairscheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-thriftfs-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hsqldb-1.8.0.10.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-core-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-mapper-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-compiler-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-runtime-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jdeb-0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-core-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-json-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-server-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jets3t-0.6.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-util-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsch-0.1.42.jar:/usr/local/hadoop-1.0.1/libexec/../lib/junit-4.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/kfs-0.2.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/log4j-1.2.15.jar:/usr/local/hadoop-1.0.1/libexec/../lib/mockito-all-1.8.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/oro-2.0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/servlet-api-2.5-20081211.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-api-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-log4j12-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/xmlenc-0.52.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-api-2.1.jar org.apache.hadoop.mapred.TaskTracker
+root      4266  0.0  0.0  55636  3424 ?        Sl   Apr30   0:05 /usr/libexec/udisks-daemon
+root      4267  0.0  0.0  45032   868 ?        S    Apr30   0:18 udisks-daemon: polling /dev/sr0
+oelsadan 11437  0.0  0.0 925292 12004 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+postfix  11572  0.0  0.0  81520  3268 ?        S    08:19   0:00 pickup -l -t fifo -u
+oelsadan 12264  0.0  0.0 794220 11968 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+root     15092  0.0  0.0 163312  3780 ?        Sl   Apr30   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1
+root     15094  0.0  0.3 178168 44352 tty7     Ss+  Apr30   0:06 /usr/bin/Xorg :0 -br -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-ojcNsN/database -nolisten tcp
+gdm      15113  0.0  0.0  18416   800 ?        S    Apr30   0:00 /usr/bin/dbus-launch --exit-with-session
+gdm      15114  0.0  0.0  20124   932 ?        Ss   Apr30   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+gdm      15115  0.0  0.0 266716  9824 ?        Ssl  Apr30   0:00 /usr/bin/gnome-session --autostart=/usr/share/gdm/autostart/LoginWindow/
+gdm      15118  0.0  0.0 131996  5928 ?        S    Apr30   0:00 /usr/libexec/gconfd-2
+gdm      15119  0.0  0.0 118692  5892 ?        S    Apr30   0:00 /usr/libexec/at-spi-registryd
+gdm      15124  0.0  0.0 356828  3664 ?        Ssl  Apr30   0:00 /usr/libexec/bonobo-activation-server --ac-activate --ior-output-fd=12
+gdm      15125  0.0  0.1 367036 13860 ?        Ssl  Apr30   0:53 /usr/libexec/gnome-settings-daemon --gconf-prefix=/apps/gdm/simple-greeter/settings-manager-plugins
+gdm      15132  0.0  0.0 135100  2188 ?        S    Apr30   0:00 /usr/libexec/gvfsd
+gdm      15133  0.0  0.0 302360 10612 ?        S    Apr30   0:00 metacity
+gdm      15134  0.0  0.0 244684  8116 ?        S    Apr30   0:00 /usr/libexec/polkit-gnome-authentication-agent-1
+gdm      15136  0.0  0.1 433860 18796 ?        S    Apr30   0:01 /usr/libexec/gdm-simple-greeter
+gdm      15144  0.0  0.0 270068  9432 ?        S    Apr30   0:01 gnome-power-manager
+gdm      15148  0.0  0.0 503604  4508 ?        S<sl Apr30   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+root     15155  0.0  0.0 195176  3088 ?        S    Apr30   0:00 pam: gdm-password
+root     18649  0.0  0.0      0     0 ?        S    09:06   0:00 [flush-afs]
+root     18905  0.0  0.0 102708  4648 ?        Ss   09:08   0:00 sshd: tdecker [priv]
+root     18914  0.0  0.0 100904   596 ?        S    09:08   0:00 sleep 60
+tdecker  18922  0.0  0.0 102708  2088 ?        S    09:08   0:00 sshd: tdecker@notty
+tdecker  18923  0.0  0.0 111024  1440 ?        Ss   09:08   0:00 csh -c sh getData.sh
+tdecker  18939  0.0  0.0 106060  1328 ?        S    09:08   0:00 sh getData.sh
+tdecker  18944  0.0  0.0 108616  1124 ?        R    09:08   0:00 ps aux

@@ -1,0 +1,411 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  21448  1372 ?        Ss   Apr21   0:03 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Apr21   0:06 [migration/0]
+root         4  0.0  0.0      0     0 ?        S    Apr21   0:12 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/0]
+root         6  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/0]
+root         7  0.0  0.0      0     0 ?        S    Apr21   0:02 [migration/1]
+root         8  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    Apr21   0:12 [ksoftirqd/1]
+root        10  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/1]
+root        11  0.0  0.0      0     0 ?        S    Apr21   0:01 [migration/2]
+root        12  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/2]
+root        13  0.0  0.0      0     0 ?        S    Apr21   0:04 [ksoftirqd/2]
+root        14  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/2]
+root        15  0.0  0.0      0     0 ?        S    Apr21   0:01 [migration/3]
+root        16  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/3]
+root        17  0.0  0.0      0     0 ?        S    Apr21   0:03 [ksoftirqd/3]
+root        18  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/3]
+root        19  0.0  0.0      0     0 ?        S    Apr21   0:02 [migration/4]
+root        20  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/4]
+root        21  0.0  0.0      0     0 ?        S    Apr21   0:02 [ksoftirqd/4]
+root        22  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/4]
+root        23  0.0  0.0      0     0 ?        S    Apr21   0:05 [migration/5]
+root        24  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/5]
+root        25  0.0  0.0      0     0 ?        S    Apr21   0:03 [ksoftirqd/5]
+root        26  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/5]
+root        27  0.0  0.0      0     0 ?        S    Apr21   0:01 [migration/6]
+root        28  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/6]
+root        29  0.0  0.0      0     0 ?        S    Apr21   0:05 [ksoftirqd/6]
+root        30  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/6]
+root        31  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/7]
+root        32  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/7]
+root        33  0.0  0.0      0     0 ?        S    Apr21   0:04 [ksoftirqd/7]
+root        34  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/7]
+root        35  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/8]
+root        36  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/8]
+root        37  0.0  0.0      0     0 ?        S    Apr21   0:02 [ksoftirqd/8]
+root        38  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/8]
+root        39  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/9]
+root        40  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/9]
+root        41  0.0  0.0      0     0 ?        S    Apr21   0:02 [ksoftirqd/9]
+root        42  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/9]
+root        43  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/10]
+root        44  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/10]
+root        45  0.0  0.0      0     0 ?        S    Apr21   0:03 [ksoftirqd/10]
+root        46  0.0  0.0      0     0 ?        S    Apr21   0:01 [watchdog/10]
+root        47  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/11]
+root        48  0.0  0.0      0     0 ?        S    Apr21   0:00 [migration/11]
+root        49  0.0  0.0      0     0 ?        S    Apr21   0:02 [ksoftirqd/11]
+root        50  0.0  0.0      0     0 ?        S    Apr21   0:00 [watchdog/11]
+root        51  0.0  0.0      0     0 ?        S    Apr21   3:35 [events/0]
+root        52  0.0  0.0      0     0 ?        S    Apr21   0:40 [events/1]
+root        53  0.0  0.0      0     0 ?        S    Apr21   0:34 [events/2]
+root        54  0.0  0.0      0     0 ?        S    Apr21   0:32 [events/3]
+root        55  0.0  0.0      0     0 ?        S    Apr21   0:31 [events/4]
+root        56  0.0  0.0      0     0 ?        S    Apr21   0:35 [events/5]
+root        57  0.0  0.0      0     0 ?        S    Apr21   0:41 [events/6]
+root        58  0.0  0.0      0     0 ?        S    Apr21   0:38 [events/7]
+root        59  0.0  0.0      0     0 ?        S    Apr21   1:13 [events/8]
+root        60  0.0  0.0      0     0 ?        S    Apr21   0:37 [events/9]
+root        61  0.0  0.0      0     0 ?        S    Apr21   0:42 [events/10]
+root        62  0.0  0.0      0     0 ?        S    Apr21   0:51 [events/11]
+root        63  0.0  0.0      0     0 ?        S    Apr21   0:00 [cgroup]
+root        64  0.0  0.0      0     0 ?        S    Apr21   0:00 [khelper]
+root        65  0.0  0.0      0     0 ?        S    Apr21   0:00 [netns]
+root        66  0.0  0.0      0     0 ?        S    Apr21   0:00 [async/mgr]
+root        67  0.0  0.0      0     0 ?        S    Apr21   0:00 [pm]
+root        68  0.0  0.0      0     0 ?        S    Apr21   0:03 [sync_supers]
+root        69  0.0  0.0      0     0 ?        S    Apr21   0:04 [bdi-default]
+root        70  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/0]
+root        71  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/1]
+root        72  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/2]
+root        73  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/3]
+root        74  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/4]
+root        75  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/5]
+root        76  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/6]
+root        77  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/7]
+root        78  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/8]
+root        79  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/9]
+root        80  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/10]
+root        81  0.0  0.0      0     0 ?        S    Apr21   0:00 [kintegrityd/11]
+root        82  0.0  0.0      0     0 ?        S    Apr21   0:29 [kblockd/0]
+root        83  0.0  0.0      0     0 ?        S    Apr21   0:36 [kblockd/1]
+root        84  0.0  0.0      0     0 ?        S    Apr21   0:59 [kblockd/2]
+root        85  0.0  0.0      0     0 ?        S    Apr21   1:17 [kblockd/3]
+root        86  0.0  0.0      0     0 ?        S    Apr21   1:51 [kblockd/4]
+root        87  0.0  0.0      0     0 ?        S    Apr21   5:54 [kblockd/5]
+root        88  0.0  0.0      0     0 ?        S    Apr21   0:00 [kblockd/6]
+root        89  0.0  0.0      0     0 ?        S    Apr21   0:00 [kblockd/7]
+root        90  0.0  0.0      0     0 ?        S    Apr21   0:00 [kblockd/8]
+root        91  0.0  0.0      0     0 ?        S    Apr21   0:00 [kblockd/9]
+root        92  0.0  0.0      0     0 ?        S    Apr21   0:00 [kblockd/10]
+root        93  0.0  0.0      0     0 ?        S    Apr21   0:01 [kblockd/11]
+root        94  0.0  0.0      0     0 ?        S    Apr21   0:00 [kacpid]
+root        95  0.0  0.0      0     0 ?        S    Apr21   0:00 [kacpi_notify]
+root        96  0.0  0.0      0     0 ?        S    Apr21   0:00 [kacpi_hotplug]
+root        97  0.0  0.0      0     0 ?        S    Apr21   0:09 [ata/0]
+root        98  0.0  0.0      0     0 ?        S    Apr21   0:16 [ata/1]
+root        99  0.0  0.0      0     0 ?        S    Apr21   0:36 [ata/2]
+root       100  0.0  0.0      0     0 ?        S    Apr21   0:54 [ata/3]
+root       101  0.0  0.0      0     0 ?        S    Apr21   1:01 [ata/4]
+root       102  0.0  0.0      0     0 ?        S    Apr21   4:07 [ata/5]
+root       103  0.0  0.0      0     0 ?        S    Apr21   0:02 [ata/6]
+root       104  0.0  0.0      0     0 ?        S    Apr21   0:04 [ata/7]
+root       105  0.0  0.0      0     0 ?        S    Apr21   0:10 [ata/8]
+root       106  0.0  0.0      0     0 ?        S    Apr21   0:15 [ata/9]
+root       107  0.0  0.0      0     0 ?        S    Apr21   0:16 [ata/10]
+root       108  0.0  0.0      0     0 ?        S    Apr21   1:10 [ata/11]
+root       109  0.0  0.0      0     0 ?        S    Apr21   0:00 [ata_aux]
+root       110  0.0  0.0      0     0 ?        S    Apr21   0:00 [ksuspend_usbd]
+root       111  0.0  0.0      0     0 ?        S    Apr21   0:00 [khubd]
+root       112  0.0  0.0      0     0 ?        S    Apr21   0:00 [kseriod]
+root       113  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/0]
+root       114  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/1]
+root       115  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/2]
+root       116  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/3]
+root       117  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/4]
+root       118  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/5]
+root       119  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/6]
+root       120  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/7]
+root       121  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/8]
+root       122  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/9]
+root       123  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/10]
+root       124  0.0  0.0      0     0 ?        S    Apr21   0:00 [md/11]
+root       125  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/0]
+root       126  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/1]
+root       127  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/2]
+root       128  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/3]
+root       129  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/4]
+root       130  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/5]
+root       131  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/6]
+root       132  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/7]
+root       133  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/8]
+root       134  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/9]
+root       135  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/10]
+root       136  0.0  0.0      0     0 ?        S    Apr21   0:00 [md_misc/11]
+root       137  0.0  0.0      0     0 ?        S    Apr21   0:00 [khungtaskd]
+root       138  0.1  0.0      0     0 ?        S    Apr21  25:00 [kswapd0]
+root       139  0.0  0.0      0     0 ?        SN   Apr21   0:00 [ksmd]
+root       140  0.0  0.0      0     0 ?        SN   Apr21   0:44 [khugepaged]
+root       141  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/0]
+root       142  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/1]
+root       143  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/2]
+root       144  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/3]
+root       145  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/4]
+root       146  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/5]
+root       147  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/6]
+root       148  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/7]
+root       149  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/8]
+root       150  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/9]
+root       151  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/10]
+root       152  0.0  0.0      0     0 ?        S    Apr21   0:00 [aio/11]
+root       153  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/0]
+root       154  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/1]
+root       155  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/2]
+root       156  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/3]
+root       157  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/4]
+root       158  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/5]
+root       159  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/6]
+root       160  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/7]
+root       161  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/8]
+root       162  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/9]
+root       163  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/10]
+root       164  0.0  0.0      0     0 ?        S    Apr21   0:00 [crypto/11]
+root       169  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/0]
+root       170  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/1]
+root       171  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/2]
+root       172  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/3]
+root       173  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/4]
+root       174  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/5]
+root       175  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/6]
+root       176  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/7]
+root       177  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/8]
+root       178  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/9]
+root       179  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/10]
+root       180  0.0  0.0      0     0 ?        S    Apr21   0:00 [kthrotld/11]
+root       182  0.0  0.0      0     0 ?        S    Apr21   0:00 [kpsmoused]
+root       183  0.0  0.0      0     0 ?        S    Apr21   0:00 [usbhid_resumer]
+root       215  0.0  0.0      0     0 ?        S    Apr21   0:00 [kstriped]
+root       390  0.0  0.0      0     0 ?        S    Apr21  12:10 [scsi_eh_0]
+root       391  0.0  0.0      0     0 ?        S    Apr21  11:18 [scsi_eh_1]
+root       393  0.0  0.0      0     0 ?        S    Apr21   0:00 [scsi_eh_2]
+root       394  0.0  0.0      0     0 ?        S    Apr21   0:00 [scsi_eh_3]
+root       466  0.0  0.0      0     0 ?        S    Apr21   0:21 [kdmflush]
+root       485  0.1  0.0      0     0 ?        S    Apr21  34:57 [flush-253:0]
+root       486  0.0  0.0      0     0 ?        D    Apr21   5:29 [jbd2/dm-0-8]
+root       487  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       488  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       489  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       490  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       491  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       492  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       493  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       494  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       495  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       496  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       497  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       498  0.0  0.0      0     0 ?        S    Apr21   0:00 [ext4-dio-unwrit]
+root       591  0.0  0.0  11136   700 ?        S<s  Apr21   0:00 /sbin/udevd -d
+root       794  0.0  0.0      0     0 ?        S    Apr21   0:00 [edac-poller]
+root       820  0.0  0.0      0     0 ?        S    Apr21   0:00 [hd-audio0]
+root      1137  0.0  0.0      0     0 ?        S    Apr21   0:00 [kvm-irqfd-clean]
+root      1188  0.0  0.0      0     0 ?        S    Apr21   0:00 [kjournald]
+root      1316  0.0  0.0      0     0 ?        S    Apr21   0:03 [kauditd]
+root      1614  0.0  0.0  93200   748 ?        S<sl Apr21   0:13 auditd
+root      1639  0.0  0.0 257868  3756 ?        Sl   Apr21   2:40 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5
+root      1668  0.0  0.0  10828   616 ?        Ss   Apr21   3:09 irqbalance --pid=/var/run/irqbalance.pid
+rpc       1682  0.0  0.0  18976   856 ?        Ss   Apr21   0:01 rpcbind
+root      2172  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/0]
+root      2173  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/1]
+root      2174  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/2]
+root      2175  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/3]
+root      2176  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/4]
+root      2177  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/5]
+root      2178  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/6]
+root      2179  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/7]
+root      2180  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/8]
+root      2181  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/9]
+root      2182  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/10]
+root      2183  0.0  0.0      0     0 ?        S    Apr21   0:00 [iprt/11]
+dbus      2199  0.0  0.0  24532  2056 ?        Ss   Apr21   0:06 dbus-daemon --system
+root      2209  0.0  0.0 101904  6536 ?        Ssl  Apr21   0:02 NetworkManager --pid-file=/var/run/NetworkManager/NetworkManager.pid
+root      2213  0.0  0.0  58048  2112 ?        S    Apr21   0:00 /usr/sbin/modem-manager
+rpcuser   2228  0.0  0.0  23348   992 ?        Ss   Apr21   0:00 rpc.statd
+nslcd     2237  0.0  0.0 450968  3312 ?        Ssl  Apr21   4:31 /usr/sbin/nslcd
+root      2277  0.0  0.0   9120  1188 ?        S    Apr21   0:00 /sbin/dhclient -d -4 -sf /usr/libexec/nm-dhcp-client.action -pf /var/run/dhclient-eth0.pid -lf /var/lib/dhclient/dhclient-5fb06bd0-0bb0-7ffb-45f1-d6edd65f3e03-eth0.lease -cf /var/run/nm-dhclient-eth0.conf eth0
+root      2284  0.0  0.0 191796  3260 ?        Ss   Apr21   0:00 cupsd -C /etc/cups/cupsd.conf
+root      2309  0.0  0.0   4080   612 ?        Ss   Apr21   0:00 /usr/sbin/acpid
+68        2318  0.0  0.0  41108  5272 ?        Ssl  Apr21   0:07 hald
+root      2319  0.0  0.0  20324  1284 ?        S    Apr21   0:00 hald-runner
+root      2408  0.0  0.0  22444  1232 ?        S    Apr21   0:05 hald-addon-input: Listening on /dev/input/event5 /dev/input/event4 /dev/input/event0 /dev/input/event1
+68        2412  0.0  0.0  17932   968 ?        S    Apr21   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+root      2413  0.0  0.0  22440  1212 ?        S    Apr21   5:39 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+root      2414  0.0  0.0  22440  1212 ?        S    Apr21   6:11 hald-addon-storage: polling /dev/sr1 (every 2 sec)
+root      2436  0.0  0.0  91272   956 ?        Ssl  Apr21   0:00 pcscd
+root      2452  0.0  0.0 390032  1364 ?        Ssl  Apr21   0:09 automount --pid-file /var/run/autofs.pid
+nscd      2469  0.0  0.0 1105384 1760 ?        Ssl  Apr21   0:30 /usr/sbin/nscd
+root      2823  0.0  0.0   4360   392 ?        Ss   Apr21   0:00 /usr/sbin/mcelog --daemon
+root      2833  0.0  0.0      0     0 ?        S    Apr21   0:01 [afs_pagecopy]
+root      2839  0.0  0.0      0     0 ?        S    Apr21   0:01 [afs_callback]
+root      2840  0.0  0.0      0     0 ?        S    Apr21   1:35 [afs_rxlistener]
+root      2841  0.0  0.0      0     0 ?        S    Apr21   0:45 [afs_rxevent]
+root      2842  0.0  0.0   6864   584 ?        Ss   Apr21   0:00 /usr/vice/etc/afsd -dynroot -fakestat -afsdb
+root      2847  0.0  0.0      0     0 ?        S    Apr21   0:51 [afsd]
+root      2848  0.0  0.0      0     0 ?        S    Apr21   0:26 [afs_checkserver]
+root      2851  0.0  0.0      0     0 ?        S    Apr21   0:05 [afs_background]
+root      2852  0.0  0.0      0     0 ?        S    Apr21   0:05 [afs_background]
+root      2853  0.0  0.0      0     0 ?        S    Apr21   0:04 [afs_background]
+root      2854  0.0  0.0      0     0 ?        S    Apr21   0:05 [afs_background]
+root      2856  0.0  0.0      0     0 ?        S    Apr21   0:05 [afs_cachetrim]
+root      2868  0.0  0.0  64716   624 ?        Ss   Apr21   0:03 /usr/sbin/sshd
+root      2876  0.0  0.0  22696   812 ?        Ss   Apr21   0:07 xinetd -stayalive -pidfile /var/run/xinetd.pid
+ntp       2884  0.0  0.0  25332  1332 ?        Ss   Apr21   0:01 ntpd -u ntp:ntp -p /var/run/ntpd.pid -g
+root      2964  0.0  0.0  80120  2636 ?        Ss   Apr21   0:03 /usr/libexec/postfix/master
+postfix   2973  0.0  0.0  80064  2628 ?        S    Apr21   0:00 qmgr -l -t fifo -u
+root      2988  0.0  0.0 108524   988 ?        Ss   Apr21   0:04 /usr/sbin/abrtd
+root      2996  0.0  0.0 108204   956 ?        Ss   Apr21   0:22 abrt-dump-oops -d /var/spool/abrt -rwx /var/log/messages
+root      3009  0.0  0.0   6736   476 ?        Ss   Apr21   0:21 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      3019  0.0  0.0 106536  1120 ?        S    Apr21   0:26 /bin/bash /usr/sbin/ksmtuned
+root      3028  0.0  0.0 115404   508 ?        Ss   Apr21   0:01 crond
+root      3039  0.0  0.0  19860   316 ?        Ss   Apr21   0:00 /usr/sbin/atd
+root      3055  0.0  0.0 490192  2304 ?        Ssl  Apr21   0:08 /usr/libexec/karl
+root      3076  0.0  0.0 100920   668 ?        Ss   Apr21   0:00 rhnsd
+root      3085  0.0  0.0 104016   632 ?        Ss   Apr21   0:00 /usr/bin/rhsmcertd
+root      3119  0.0  0.0 112920  1484 ?        Sl   Apr21  16:50 spiceusbsrvd
+root      3122  0.0  0.0 132260  2240 ?        Ssl  Apr21   0:00 /usr/sbin/gdm-binary -nodaemon
+root      3127  0.0  0.0   4060   492 tty2     Ss+  Apr21   0:00 /sbin/mingetty /dev/tty2
+root      3129  0.0  0.0   4060   492 tty3     Ss+  Apr21   0:00 /sbin/mingetty /dev/tty3
+root      3131  0.0  0.0   4060   492 tty4     Ss+  Apr21   0:00 /sbin/mingetty /dev/tty4
+root      3133  0.0  0.0   4060   492 tty5     Ss+  Apr21   0:00 /sbin/mingetty /dev/tty5
+root      3135  0.0  0.0   4060   492 tty6     Ss+  Apr21   0:00 /sbin/mingetty /dev/tty6
+root      3195  0.0  0.0 4184636 4304 ?        Sl   Apr21   0:01 /usr/sbin/console-kit-daemon --no-daemon
+root      3270  0.0  0.0  50044  3256 ?        S    Apr21   0:00 /usr/libexec/devkit-power-daemon
+root      3312  0.0  0.0  59340  4656 ?        S    Apr21   0:01 /usr/libexec/polkit-1/polkitd
+rtkit     3323  0.0  0.0 166560  1212 ?        SNl  Apr21   0:28 /usr/libexec/rtkit-daemon
+root      3332  0.0  0.0  44964  1032 ?        Ss   Apr21   0:00 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -B -u -f /var/log/wpa_supplicant.log -P /var/run/wpa_supplicant.pid
+hadoop    3444  5.2  4.5 8909392 556136 ?      SNl  Apr21 1201:16 /usr/lib/jvm/java/bin/java -Dproc_datanode -Xmx2000m -server -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote -Dhadoop.log.dir=/var/local/hadoop/logs -Dhadoop.log.file=hadoop-hadoop-datanode-ghc49.ghc.andrew.cmu.edu.log -Dhadoop.home.dir=/usr/local/hadoop-1.0.1/libexec/.. -Dhadoop.id.str=hadoop -Dhadoop.root.logger=INFO,DRFA -Dhadoop.security.logger=INFO,NullAppender -Djava.library.path=/usr/local/hadoop-1.0.1/libexec/../lib/native/Linux-amd64-64 -Dhadoop.policy.file=hadoop-policy.xml -classpath /usr/local/hadoop-1.0.1/libexec/../conf:/usr/lib/jvm/java/lib/tools.jar:/usr/local/hadoop-1.0.1/libexec/..:/usr/local/hadoop-1.0.1/libexec/../hadoop-core-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/asm-3.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjrt-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjtools-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-1.7.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-core-1.8.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-cli-1.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-codec-1.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-collections-3.2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-configuration-1.6.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-daemon-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-digester-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-el-1.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-httpclient-3.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-lang-2.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-1.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-api-1.0.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-math-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-net-1.4.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/core-3.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-capacity-scheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-fairscheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-thriftfs-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hsqldb-1.8.0.10.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-core-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-mapper-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-compiler-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-runtime-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jdeb-0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-core-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-json-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-server-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jets3t-0.6.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-util-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsch-0.1.42.jar:/usr/local/hadoop-1.0.1/libexec/../lib/junit-4.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/kfs-0.2.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/log4j-1.2.15.jar:/usr/local/hadoop-1.0.1/libexec/../lib/mockito-all-1.8.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/oro-2.0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/servlet-api-2.5-20081211.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-api-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-log4j12-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/xmlenc-0.52.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-api-2.1.jar org.apache.hadoop.hdfs.server.datanode.DataNode
+cdw1      7148  0.0  0.0 859480 12044 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+cdw1      8554  0.0  0.1 925016 14028 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory
+postfix   9285  0.0  0.0  84092  3376 ?        S    13:07   0:00 pickup -l -t fifo -u
+cdw1     10737  0.0  0.0 362832  3084 ?        Ssl  Apr30   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+cdw1     10749  0.0  0.0  93140  3148 ?        S    Apr30   0:00 /usr/libexec/pulse/gconf-helper
+root     11077  0.0  0.0  10824   760 ?        S<   Apr21   0:00 /sbin/udevd -d
+root     11080  0.0  0.0  10824   760 ?        S<   Apr21   0:00 /sbin/udevd -d
+jlareau  12660  0.0  0.1 859484 14100 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+root     14601  0.0  0.0 101084  4640 ?        Ss   13:46   0:00 sshd: shuaihan [priv]
+shuaihan 14616  0.0  0.0 101084  2128 ?        S    13:46   0:00 sshd: shuaihan@pts/0
+shuaihan 14617  0.0  0.0 111528  2304 pts/0    Ss   13:46   0:00 -csh
+jlareau  14664  0.0  0.1 728412 13976 ?        Sl   Apr23   0:00 /usr/libexec/e-calendar-factory
+jdharris 16576  0.0  0.0 925020 11980 ?        Sl   Apr24   0:00 /usr/libexec/e-calendar-factory
+sctoor   17090  0.0  0.0 925020 12060 ?        Sl   Apr29   0:00 /usr/libexec/e-calendar-factory
+esteuer  17489  0.0  0.1 859596 14252 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory
+shuaihan 19296  0.0  0.0   9196  1244 pts/0    S+   14:18   0:00 sh c.sh
+shuaihan 19297  0.0  0.0  14388  1552 pts/0    S+   14:18   0:00 Render -proj /afs/cs.cmu.edu/academic/class/15465-s14/final_presentation/midterm/scene33 -rd /afs/cs.cmu.edu/academic/class/15465-s14/final_presentation/midterm/scene33/images -s 381 -e 390 -b 1 -pad 4 comebackv1_scene33.mb
+shuaihan 19298  0.0  0.0  13572  1176 pts/0    S+   14:18   0:00 /bin/csh -f /usr/autodesk/maya2014-x64/bin/maya -batch -file comebackv1_scene33.mb -script /tmp/ASTMPanOLwG.mel -proj /afs/cs.cmu.edu/academic/class/15465-s14/final_presentation/midterm/scene33
+shuaihan 19319  379 13.6 4885092 1663672 pts/0 Sl+  14:18  93:49 /usr/autodesk/maya2014-x64/bin/maya.bin -batch -file comebackv1_scene33.mb -script /tmp/ASTMPanOLwG.mel -proj /afs/cs.cmu.edu/academic/class/15465-s14/final_presentation/midterm/scene33
+cl0x     19594  0.0  0.0  63088  2492 ?        Sl   Apr21   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rvalle   19750  0.0  0.1 859656 14460 ?        Sl   Apr29   0:00 /usr/libexec/e-calendar-factory
+root     19845  0.0  0.0 163036  3764 ?        Sl   Apr28   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display2
+root     19849  0.0  0.7 215224 86280 tty8     Ss+  Apr28   0:47 /usr/bin/Xorg :1 -br -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-1VrpZj/database -nolisten tcp
+root     19854  0.0  0.0  55660  3468 ?        Sl   Apr21   1:29 /usr/libexec/udisks-daemon
+root     19858  0.0  0.0  45032   888 ?        S    Apr21   5:03 udisks-daemon: polling /dev/sr1 /dev/sr0
+gdm      19889  0.0  0.0  18144   796 ?        S    Apr28   0:00 /usr/bin/dbus-launch --exit-with-session
+gdm      19890  0.0  0.0  19856   928 ?        Ss   Apr28   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+gdm      19891  0.0  0.0 265640  8996 ?        Ssl  Apr28   0:00 /usr/bin/gnome-session --autostart=/usr/share/gdm/autostart/LoginWindow/
+gdm      19895  0.0  0.0 131724  5904 ?        S    Apr28   0:02 /usr/libexec/gconfd-2
+gdm      19901  0.0  0.0 118420  5876 ?        S    Apr28   0:01 /usr/libexec/at-spi-registryd
+gdm      19902  0.0  0.2 389760 35972 ?        Ssl  Apr28  10:06 /usr/libexec/gnome-settings-daemon --gconf-prefix=/apps/gdm/simple-greeter/settings-manager-plugins
+gdm      19904  0.0  0.0 356456  5660 ?        Ssl  Apr28   0:00 /usr/libexec/bonobo-activation-server --ac-activate --ior-output-fd=12
+gdm      19912  0.0  0.0 135100  2188 ?        S    Apr28   0:00 /usr/libexec/gvfsd
+gdm      19913  0.0  0.0 302896 10600 ?        S    Apr28   0:02 metacity
+gdm      19916  0.0  0.1 431800 19172 ?        S    Apr28   0:10 /usr/libexec/gdm-simple-greeter
+gdm      19918  0.0  0.0 269836  9472 ?        S    Apr28   0:07 gnome-power-manager
+gdm      19927  0.0  0.0 427872  4624 ?        S<sl Apr28   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+root     21573  0.0  0.0 210400  4472 ?        Sl   May02   0:00 pam: gdm-password
+afalk    21644  0.0  0.0 227028  4028 ?        Sl   May05   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+afalk    21751  0.0  0.0 110724  1340 ?        Ss   May05   0:00 -/bin/csh -c gnome-session
+afalk    21759  0.0  0.0  18144   800 ?        S    May05   0:00 dbus-launch --sh-syntax --exit-with-session
+afalk    21760  0.0  0.0  20384  1552 ?        Ss   May05   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+afalk    21813  0.0  0.0 290660  5852 ?        Sl   May05   0:00 /usr/libexec/kamsg
+afalk    21814  0.0  0.0 185908  2060 ?        Sl   May05   0:04 /usr/libexec/KeyAccess
+root     21820  0.0  0.0      0     0 ?        S    May05   0:01 [flush-afs]
+afalk    21858  0.0  0.0 152544  7364 ?        Sl   May05   0:00 gnome-session
+afalk    21863  0.0  0.0 131880  6092 ?        S    May05   0:01 /usr/libexec/gconfd-2
+afalk    21877  0.0  0.0 406372 11880 ?        Ssl  May05   0:07 /usr/libexec/gnome-settings-daemon
+afalk    21881  0.0  0.0 192792  8404 ?        Ss   May05   0:00 seahorse-daemon
+afalk    21886  0.0  0.0 135312  2284 ?        S    May05   0:00 /usr/libexec/gvfsd
+afalk    21906  0.0  0.0 142460  7912 ?        S    May05   0:00 metacity
+afalk    21910  0.0  0.0 353832  5144 ?        S<sl May05   0:06 /usr/bin/pulseaudio --start --log-target=syslog
+afalk    21911  0.0  0.1 250776 16384 ?        S    May05   0:07 gnome-panel
+afalk    21916  0.0  0.2 1075756 26704 ?       S    May05   0:03 nautilus
+afalk    21918  0.0  0.0 532132  3900 ?        Ssl  May05   0:00 /usr/libexec/bonobo-activation-server --ac-activate --ior-output-fd=18
+afalk    21921  0.0  0.0 339408 11436 ?        Sl   May05   0:00 /usr/libexec/evolution/2.32/evolution-alarm-notify
+afalk    21932  0.0  0.0  93324  3384 ?        S    May05   0:00 /usr/libexec/pulse/gconf-helper
+afalk    21936  0.0  0.1 204912 12860 ?        S    May05   0:00 /usr/libexec/wnck-applet --oaf-activate-iid=OAFIID:GNOME_Wncklet_Factory --oaf-ior-fd=18
+afalk    21937  0.0  0.1 259232 13036 ?        S    May05   0:00 nm-applet --sm-disable
+afalk    21944  0.0  0.0 181448  8884 ?        S    May05   0:00 bluetooth-applet
+afalk    21946  0.0  0.0 113188  4740 ?        S    May05   0:00 /usr/libexec/im-settings-daemon
+afalk    21969  0.0  0.0 236084 11224 ?        S    May05   0:00 /usr/libexec/trashapplet --oaf-activate-iid=OAFIID:GNOME_Panel_TrashApplet_Factory --oaf-ior-fd=19
+afalk    21986  0.0  0.0 144328  3224 ?        S    May05   0:00 /usr/libexec/gvfs-gdu-volume-monitor
+afalk    21996  0.0  0.0 154724  7292 ?        S    May05   0:00 /usr/libexec/gdu-notification-daemon
+afalk    21997  0.0  0.0 183116  8880 ?        S    May05   0:00 abrt-applet
+afalk    22018  0.0  0.0 142148  3000 ?        S    May05   0:00 /usr/libexec/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+afalk    22037  0.0  0.0 232424  2556 ?        Sl   May05   0:03 /usr/libexec/gvfs-afc-volume-monitor
+afalk    22038  0.0  0.0 129076  6256 ?        S    May05   0:00 /usr/libexec/polkit-gnome-authentication-agent-1
+afalk    22040  0.0  0.1 289464 12780 ?        S    May05   0:00 gnome-volume-control-applet
+afalk    22086  0.0  0.0 150944  2524 ?        S    May05   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+afalk    22125  0.0  0.0  39000  2632 ?        S    May05   0:00 /usr/libexec/gconf-im-settings-daemon
+afalk    22126  0.0  0.0 129284  6900 ?        S    May05   0:00 rhsm-icon
+afalk    22128  0.0  0.0 156980  8028 ?        S    May05   0:01 gnome-power-manager
+afalk    22134  0.0  0.0 859484 12064 ?        Sl   May05   0:00 /usr/libexec/e-calendar-factory
+afalk    22139  0.0  0.0 295756 11888 ?        S    May05   0:00 /usr/libexec/notification-daemon
+afalk    22142  0.0  0.0 164056  7552 ?        Ss   May05   0:07 gnome-screensaver
+afalk    22153  0.0  0.1 313724 13560 ?        S    May05   0:00 /usr/libexec/gdm-user-switch-applet --oaf-activate-iid=OAFIID:GNOME_FastUserSwitchApplet_Factory --oaf-ior-fd=20
+afalk    22155  0.0  0.0 190292  9960 ?        S    May05   0:00 /usr/libexec/notification-area-applet --oaf-activate-iid=OAFIID:GNOME_NotificationAreaApplet_Factory --oaf-ior-fd=28
+afalk    22157  0.0  0.1 401108 18056 ?        S    May05   0:02 /usr/libexec/clock-applet --oaf-activate-iid=OAFIID:GNOME_ClockApplet_Factory --oaf-ior-fd=34
+afalk    22159  0.0  0.1 354592 16172 ?        S    May05   0:00 /usr/bin/gnote --panel-applet --oaf-activate-iid=OAFIID:GnoteApplet_Factory --oaf-ior-fd=40
+afalk    22174  0.0  0.1 707640 14780 ?        Sl   May05   0:00 /usr/libexec/e-addressbook-factory
+afalk    22204  0.0  0.0 135552  2360 ?        S    May05   0:00 /usr/libexec/gvfsd-burn --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+afalk    22226  0.0  0.0 135240  2200 ?        S    May05   0:00 /usr/libexec/gvfsd-metadata
+afalk    22253  2.7  1.1 850740 136648 ?       Sl   May05  71:30 /opt/google/chrome/chrome       
+afalk    22258  0.0  0.0 255132  7920 ?        S    May05   0:01 /opt/google/chrome/chrome       
+afalk    22259  0.0  0.0   6228   576 ?        S    May05   0:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+afalk    22260  0.0  0.1 298632 23424 ?        S    May05   0:00 /opt/google/chrome/chrome --type=zygote
+afalk    22263  0.0  0.0 122840  4024 ?        S    May05   0:00 /opt/google/chrome/nacl_helper_bootstrap /opt/google/chrome/nacl_helper --reserved_at_zero=0x0000000000000000 --r_debug=0x0000000000213000
+afalk    22264  0.0  0.0 308876  7276 ?        S    May05   0:00 /opt/google/chrome/chrome --type=zygote
+afalk    22313  0.0  0.2 889156 25124 ?        Sl   May05   0:00 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --extension-process --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.0.971848624
+afalk    22324  0.9  2.2 1135336 273704 ?      Sl   May05  26:00 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.1.533624877
+afalk    22351  0.6  0.8 974636 109636 ?       Sl   May05  15:51 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.3.2018431942
+afalk    22363  0.0  0.2 887256 24988 ?        Sl   May05   0:00 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.4.670270556
+afalk    22394  0.3  0.5 923400 63120 ?        Sl   May05   7:55 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.5.1931936501
+afalk    22405  4.1  0.7 964976 89120 ?        Sl   May05 108:50 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.6.378516778
+afalk    22424  2.7  2.0 535544 248324 ?       Sl   May05  70:55 /opt/google/chrome/chrome --type=gpu-process --channel=22253.8.302535335 --supports-dual-gpus=false --gpu-vendor-id=0x10de --gpu-device-id=0x06fd --gpu-driver-vendor=NVIDIA --gpu-driver-version=310.19
+afalk    22426  0.0  0.7 972600 92708 ?        Sl   May05   0:27 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.9.406543531
+afalk    22435  0.0  0.7 972912 94988 ?        Sl   May05   0:28 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.11.760749888
+afalk    22456  0.0  0.7 962404 87692 ?        Sl   May05   0:27 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.13.1607199834
+afalk    22529  0.9  0.8 1382340 105532 ?      Sl   May05  24:27 /opt/google/chrome/chrome --type=ppapi --channel=22253.14.1902877340 --lang=en-US
+afalk    22534  0.0  0.7 969192 92068 ?        Sl   May05   0:27 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.15.947863283
+afalk    22548  0.0  0.4 940524 52968 ?        Sl   May05   1:55 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.16.1206529366
+afalk    22556 24.5  2.6 1272416 326888 ?      Sl   May05 644:42 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.17.881293886
+afalk    22579  0.0  0.7 980604 95168 ?        Sl   May05   0:28 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.18.1433217475
+afalk    22585  5.9  1.4 1055992 181012 ?      Sl   May05 157:09 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.19.106248110
+afalk    22593  1.0  0.7 978040 88108 ?        Sl   May05  28:28 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.20.1455809189
+dringwal 23310  0.0  0.0 444620  5264 ?        S<sl May02   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+dringwal 23338  0.0  0.0  93324  3404 ?        S    May02   0:00 /usr/libexec/pulse/gconf-helper
+root     23669  0.0  0.0 100904   592 ?        S    14:42   0:00 sleep 60
+root     23877  0.1  0.0 101084  4632 ?        Ss   14:42   0:00 sshd: tdecker [priv]
+dringwal 23921  0.0  0.6 841168 76228 ?        SLl  May02   0:16 /opt/google/chrome/chrome       
+dringwal 23926  0.0  0.0 351972  7896 ?        S    May02   0:00 /opt/google/chrome/chrome       
+dringwal 23927  0.0  0.0   6228   576 ?        S    May02   0:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+dringwal 23928  0.0  0.1 395468 23524 ?        S    May02   0:00 /opt/google/chrome/chrome --type=zygote
+dringwal 23931  0.0  0.0 122808  3980 ?        S    May02   0:00 /opt/google/chrome/nacl_helper_bootstrap /opt/google/chrome/nacl_helper --reserved_at_zero=0x0000000000000000 --r_debug=0x0000000000213000
+dringwal 23932  0.0  0.0 426200  7356 ?        S    May02   0:00 /opt/google/chrome/chrome --type=zygote
+tdecker  23990  0.0  0.0 101084  2092 ?        S    14:42   0:00 sshd: tdecker@notty
+tdecker  23991  4.0  0.0 110764  1428 ?        Ss   14:42   0:00 csh -c sh getData.sh
+tdecker  24009  0.0  0.0 106060  1332 ?        S    14:42   0:00 sh getData.sh
+tdecker  24014  0.0  0.0 108336  1128 ?        R    14:42   0:00 ps aux
+afalk    24435  0.0  0.0 859484 11984 ?        Sl   Apr24   0:00 /usr/libexec/e-calendar-factory
+afalk    25256  0.0  0.4 911764 54940 ?        Sl   May05   0:28 /opt/google/chrome/chrome --type=renderer --lang=en-US --force-fieldtrials=ForceCompositingMode/disable/OmniboxHQPReplaceHUPProhibitTrumpingInlineableResult/Standard/OmniboxSearchSuggestTrialStarted2013Q1/5/OneClickSignIn/Standard/Prerender/PrerenderEnabled/SpdyCwnd/cwnd16/Test0PercentDefault/group_01/UMA-Dynamic-Binary-Uniformity-Trial/default/UMA-New-Install-Uniformity-Trial/Experiment/UMA-Session-Randomized-Uniformity-Trial-5-Percent/group_09/UMA-Uniformity-Trial-1-Percent/group_41/UMA-Uniformity-Trial-10-Percent/default/UMA-Uniformity-Trial-20-Percent/default/UMA-Uniformity-Trial-5-Percent/group_07/UMA-Uniformity-Trial-50-Percent/default/ --renderer-print-preview --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=22253.22.571371597
+dringwal 26022  0.0  0.0 121448  1168 ?        Ss   Apr24   0:00 SCREEN
+dringwal 26023  0.0  0.0 106544  1856 pts/1    Ss+  Apr24   0:00 /bin/bash
+esteuer  26345  0.0  0.0  63088  2804 ?        Sl   Apr28   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+root     26353  0.0  0.0 195176  3092 ?        S    Apr28   0:00 pam: gdm-password
+cdw1     27245  0.0  0.0 793944 11960 ?        Sl   Apr21   0:00 /usr/libexec/e-calendar-factory
+cdw1     28462  0.0  0.1 793944 14024 ?        Sl   Apr21   0:00 /usr/libexec/e-calendar-factory
+eforney  29834  0.0  0.1 728412 14020 ?        Sl   May02   0:00 /usr/libexec/e-calendar-factory
+afalk    30095  0.0  0.0 859484 12000 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory
+root     31161  0.0  0.0 163064  3840 ?        Sl   May02   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1
+root     31163  0.4  0.4 189296 59040 tty7     Ss+  May02  29:23 /usr/bin/Xorg :0 -br -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-RVomME/database -nolisten tcp
+gdm      31187  0.0  0.0  18144   792 ?        S    May02   0:00 /usr/bin/dbus-launch --exit-with-session

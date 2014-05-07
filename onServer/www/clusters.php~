@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="img/logo.00_png_srz">
+
+    <title>CMU Linux Clusters Usage Info</title>
+
+    <link href="boostrap-3.1.1-dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <link href="cover.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+<div style="position:fixed">
+     <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand"><img src="img/logo.00_png_srz" width = 30px />  &nbsp;CMU Linux Clusters Usage</h3>
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="index.html">Find a Cluster</a></li>
+                <li><a href="index.html#How" >About The Site</a></li>
+              </ul>
+            </div>
+</div>
+          </div>
+</div>
+</div>
+
+<!--
+         <div class="inner cover">
+            <h1 class="cover-heading">Cover your page.</h1>
+            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+            <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+            </p>
+</div>
+--->
+
+
+
+<img src="img/box.jpg" width="100%" height="100%" style="position:absolute; top:15%; left:0px; height:140%;z-index:1;" />
+
+<div  style="position:absolute;
+			 height:75%;
+			 left:10%;
+			 top: 20%;
+			 width:80%;
+			 z-index:2;
+">
+ <?php
+include("Clusters/".$_GET["page"].".html");
+  ?>
+
+
+</div>
+
+<div style=" position:absolute;
+			top:220%;
+			left:20%;
+			z-index:2;
+			text-align:left;
+">
+<p>Produced by:  Trevor Decker, Roy Koganti, Sam Westrick, Jae Kim  </P>
+<p>  Created Using Twitter Bootstrap &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Developed in 2014  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Only for non-comerical use at Carnegie Mellon University</p>
+
+</div>
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="http://getbootstrap.com/examples/cover/../../dist/js/bootstrap.min.js"></script>
+    <script src="http://getbootstrap.com/examples/cover/../../assets/js/docs.min.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,193 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.6  0.0  21448  1564 ?        Ss   16:50   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    16:50   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/0]
+root         4  0.0  0.0      0     0 ?        S    16:50   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/0]
+root         6  0.0  0.0      0     0 ?        S    16:50   0:00 [watchdog/0]
+root         7  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/1]
+root         8  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    16:50   0:00 [ksoftirqd/1]
+root        10  0.0  0.0      0     0 ?        S    16:50   0:00 [watchdog/1]
+root        11  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/2]
+root        12  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/2]
+root        13  0.0  0.0      0     0 ?        S    16:50   0:00 [ksoftirqd/2]
+root        14  0.0  0.0      0     0 ?        S    16:50   0:00 [watchdog/2]
+root        15  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/3]
+root        16  0.0  0.0      0     0 ?        S    16:50   0:00 [migration/3]
+root        17  0.0  0.0      0     0 ?        S    16:50   0:00 [ksoftirqd/3]
+root        18  0.0  0.0      0     0 ?        S    16:50   0:00 [watchdog/3]
+root        19  0.0  0.0      0     0 ?        S    16:50   0:00 [events/0]
+root        20  0.0  0.0      0     0 ?        S    16:50   0:00 [events/1]
+root        21  0.0  0.0      0     0 ?        S    16:50   0:00 [events/2]
+root        22  0.0  0.0      0     0 ?        S    16:50   0:00 [events/3]
+root        23  0.0  0.0      0     0 ?        S    16:50   0:00 [cgroup]
+root        24  0.0  0.0      0     0 ?        S    16:50   0:00 [khelper]
+root        25  0.0  0.0      0     0 ?        S    16:50   0:00 [netns]
+root        26  0.0  0.0      0     0 ?        S    16:50   0:00 [async/mgr]
+root        27  0.0  0.0      0     0 ?        S    16:50   0:00 [pm]
+root        28  0.0  0.0      0     0 ?        S    16:50   0:00 [sync_supers]
+root        29  0.0  0.0      0     0 ?        S    16:50   0:00 [bdi-default]
+root        30  0.0  0.0      0     0 ?        S    16:50   0:00 [kintegrityd/0]
+root        31  0.0  0.0      0     0 ?        S    16:50   0:00 [kintegrityd/1]
+root        32  0.0  0.0      0     0 ?        S    16:50   0:00 [kintegrityd/2]
+root        33  0.0  0.0      0     0 ?        S    16:50   0:00 [kintegrityd/3]
+root        34  0.0  0.0      0     0 ?        S    16:50   0:00 [kblockd/0]
+root        35  0.0  0.0      0     0 ?        S    16:50   0:00 [kblockd/1]
+root        36  0.0  0.0      0     0 ?        S    16:50   0:00 [kblockd/2]
+root        37  0.0  0.0      0     0 ?        S    16:50   0:00 [kblockd/3]
+root        38  0.0  0.0      0     0 ?        S    16:50   0:00 [kacpid]
+root        39  0.0  0.0      0     0 ?        S    16:50   0:00 [kacpi_notify]
+root        40  0.0  0.0      0     0 ?        S    16:50   0:00 [kacpi_hotplug]
+root        41  0.0  0.0      0     0 ?        S    16:50   0:00 [ata/0]
+root        42  0.0  0.0      0     0 ?        S    16:50   0:00 [ata/1]
+root        43  0.0  0.0      0     0 ?        S    16:50   0:00 [ata/2]
+root        44  0.0  0.0      0     0 ?        S    16:50   0:00 [ata/3]
+root        45  0.0  0.0      0     0 ?        S    16:50   0:00 [ata_aux]
+root        46  0.0  0.0      0     0 ?        S    16:50   0:00 [ksuspend_usbd]
+root        47  0.0  0.0      0     0 ?        S    16:50   0:00 [khubd]
+root        48  0.0  0.0      0     0 ?        S    16:50   0:00 [kseriod]
+root        49  0.0  0.0      0     0 ?        S    16:50   0:00 [md/0]
+root        50  0.0  0.0      0     0 ?        S    16:50   0:00 [md/1]
+root        51  0.0  0.0      0     0 ?        S    16:50   0:00 [md/2]
+root        52  0.0  0.0      0     0 ?        S    16:50   0:00 [md/3]
+root        53  0.0  0.0      0     0 ?        S    16:50   0:00 [md_misc/0]
+root        54  0.0  0.0      0     0 ?        S    16:50   0:00 [md_misc/1]
+root        55  0.0  0.0      0     0 ?        S    16:50   0:00 [md_misc/2]
+root        56  0.0  0.0      0     0 ?        S    16:50   0:00 [md_misc/3]
+root        57  0.0  0.0      0     0 ?        S    16:50   0:00 [khungtaskd]
+root        58  0.0  0.0      0     0 ?        S    16:50   0:00 [kswapd0]
+root        59  0.0  0.0      0     0 ?        SN   16:50   0:00 [ksmd]
+root        60  0.0  0.0      0     0 ?        SN   16:50   0:00 [khugepaged]
+root        61  0.0  0.0      0     0 ?        S    16:50   0:00 [aio/0]
+root        62  0.0  0.0      0     0 ?        S    16:50   0:00 [aio/1]
+root        63  0.0  0.0      0     0 ?        S    16:50   0:00 [aio/2]
+root        64  0.0  0.0      0     0 ?        S    16:50   0:00 [aio/3]
+root        65  0.0  0.0      0     0 ?        S    16:50   0:00 [crypto/0]
+root        66  0.0  0.0      0     0 ?        S    16:50   0:00 [crypto/1]
+root        67  0.0  0.0      0     0 ?        S    16:50   0:00 [crypto/2]
+root        68  0.0  0.0      0     0 ?        S    16:50   0:00 [crypto/3]
+root        73  0.0  0.0      0     0 ?        S    16:50   0:00 [kthrotld/0]
+root        74  0.0  0.0      0     0 ?        S    16:50   0:00 [kthrotld/1]
+root        75  0.0  0.0      0     0 ?        S    16:50   0:00 [kthrotld/2]
+root        76  0.0  0.0      0     0 ?        S    16:50   0:00 [kthrotld/3]
+root        78  0.0  0.0      0     0 ?        S    16:50   0:00 [kpsmoused]
+root        79  0.0  0.0      0     0 ?        S    16:50   0:00 [usbhid_resumer]
+root       110  0.0  0.0      0     0 ?        S    16:50   0:00 [kstriped]
+root       276  0.0  0.0      0     0 ?        S    16:50   0:00 [scsi_eh_0]
+root       277  0.0  0.0      0     0 ?        S    16:50   0:00 [scsi_eh_1]
+root       279  0.0  0.0      0     0 ?        S    16:50   0:00 [scsi_eh_2]
+root       280  0.0  0.0      0     0 ?        S    16:50   0:00 [scsi_eh_3]
+root       368  0.0  0.0      0     0 ?        S    16:50   0:00 [kdmflush]
+root       383  0.0  0.0      0     0 ?        S    16:50   0:00 [jbd2/dm-0-8]
+root       384  0.0  0.0      0     0 ?        S    16:50   0:00 [ext4-dio-unwrit]
+root       385  0.0  0.0      0     0 ?        S    16:50   0:00 [ext4-dio-unwrit]
+root       386  0.0  0.0      0     0 ?        S    16:50   0:00 [ext4-dio-unwrit]
+root       387  0.0  0.0      0     0 ?        S    16:50   0:00 [ext4-dio-unwrit]
+root       441  0.0  0.0      0     0 ?        S    16:50   0:00 [flush-8:0]
+root       442  0.0  0.0      0     0 ?        S    16:50   0:00 [flush-8:16]
+root       480  0.1  0.0  10848   948 ?        S<s  16:50   0:00 /sbin/udevd -d
+root       596  0.0  0.0      0     0 ?        S    16:50   0:00 [edac-poller]
+root       602  0.0  0.0      0     0 ?        S    16:50   0:00 [hd-audio0]
+root       605  0.0  0.0      0     0 ?        S    16:50   0:00 [hd-audio1]
+root       926  0.0  0.0      0     0 ?        S    16:50   0:00 [kvm-irqfd-clean]
+root       974  0.0  0.0      0     0 ?        S    16:50   0:00 [kjournald]
+root       979  0.0  0.0      0     0 ?        S    16:50   0:00 [flush-253:0]
+root      1028  0.0  0.0      0     0 ?        S    16:50   0:00 [kauditd]
+root      1338  0.0  0.0  27640   820 ?        S<sl 16:51   0:00 auditd
+root      1363  0.0  0.0 257480  1904 ?        Sl   16:51   0:00 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5
+root      1392  0.0  0.0  10820   648 ?        Ss   16:51   0:00 irqbalance --pid=/var/run/irqbalance.pid
+rpc       1406  0.0  0.0  18976   892 ?        Ss   16:51   0:00 rpcbind
+root      1508  0.0  0.0 121036   960 ?        Ssl  16:51   0:00 /usr/lib/vmware/bin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root      1521  0.0  0.0   4532   500 ?        Ss   16:51   0:00 /usr/bin/vmnet-bridge -s 6 -d /var/run/vmnet-bridge-0.pid -n 0
+root      1529  0.0  0.0   4504   268 ?        Ss   16:51   0:00 /usr/bin/vmnet-netifup -s 6 -d /var/run/vmnet-netifup-vmnet1.pid /dev/vmnet1 vmnet1
+root      1553  0.0  0.0  13644   480 ?        Ss   16:51   0:00 /usr/bin/vmnet-dhcpd -s 6 -cf /etc/vmware/vmnet1/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet1/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet1.pid vmnet1
+root      1556  0.0  0.0  11448  1148 ?        S    16:51   0:00 /usr/bin/vmnet-natd -s 6 -m /etc/vmware/vmnet8/nat.mac -c /etc/vmware/vmnet8/nat/nat.conf
+root      1558  0.0  0.0   4504   264 ?        Ss   16:51   0:00 /usr/bin/vmnet-netifup -s 6 -d /var/run/vmnet-netifup-vmnet8.pid /dev/vmnet8 vmnet8
+root      1582  0.0  0.0  13644   480 ?        Ss   16:51   0:00 /usr/bin/vmnet-dhcpd -s 6 -cf /etc/vmware/vmnet8/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet8/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet8.pid vmnet8
+root      1601  0.0  0.0  23588   912 ?        Ss   16:51   0:00 /usr/sbin/vmware-authdlauncher
+root      2215  0.0  0.0      0     0 ?        S    16:51   0:00 [iprt/0]
+root      2216  0.0  0.0      0     0 ?        S    16:51   0:00 [iprt/1]
+root      2217  0.0  0.0      0     0 ?        S    16:51   0:00 [iprt/2]
+root      2218  0.0  0.0      0     0 ?        S    16:51   0:00 [iprt/3]
+dbus      2234  0.0  0.0  23892  1412 ?        Ss   16:51   0:00 dbus-daemon --system
+root      2244  0.0  0.0 100452  5840 ?        Ssl  16:51   0:00 NetworkManager --pid-file=/var/run/NetworkManager/NetworkManager.pid
+root      2248  0.0  0.0  58048  2564 ?        S    16:51   0:00 /usr/sbin/modem-manager
+rpcuser   2263  0.0  0.0  23348  1340 ?        Ss   16:51   0:00 rpc.statd
+nslcd     2272  0.0  0.0 450968  4668 ?        Ssl  16:51   0:00 /usr/sbin/nslcd
+root      2316  0.0  0.0   9120  1536 ?        S    16:51   0:00 /sbin/dhclient -d -4 -sf /usr/libexec/nm-dhcp-client.action -pf /var/run/dhclient-eth0.pid -lf /var/lib/dhclient/dhclient-5fb06bd0-0bb0-7ffb-45f1-d6edd65f3e03-eth0.lease -cf /var/run/nm-dhclient-eth0.conf eth0
+root      2317  0.0  0.0 189468  3576 ?        Ss   16:51   0:00 cupsd -C /etc/cups/cupsd.conf
+root      2344  0.0  0.0   4080   632 ?        Ss   16:51   0:00 /usr/sbin/acpid
+68        2353  0.0  0.0  41128  5648 ?        Ssl  16:51   0:00 hald
+root      2354  0.0  0.0  20324  1364 ?        S    16:51   0:00 hald-runner
+root      2442  0.0  0.0  22444  1280 ?        S    16:52   0:00 hald-addon-input: Listening on /dev/input/event5 /dev/input/event4 /dev/input/event0 /dev/input/event1
+root      2446  0.0  0.0  22440  1292 ?        S    16:52   0:00 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+68        2447  0.0  0.0  17932  1132 ?        S    16:52   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+root      2469  0.0  0.0  91272  1676 ?        Ssl  16:52   0:00 pcscd
+root      2485  0.0  0.0 390028  2208 ?        Ssl  16:52   0:00 automount --pid-file /var/run/autofs.pid
+nscd      2502  0.0  0.0 902620  1564 ?        Ssl  16:52   0:00 /usr/sbin/nscd
+root      2865  0.0  0.0   4692   504 ?        Ss   16:52   0:00 /usr/sbin/mcelog --daemon
+root      2875  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_pagecopy]
+root      2881  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_callback]
+root      2882  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_rxevent]
+root      2883  0.0  0.0   6556   396 ?        Ss   16:52   0:00 /usr/vice/etc/afsd -dynroot -fakestat -afsdb
+root      2884  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_rxlistener]
+root      2888  0.0  0.0      0     0 ?        S    16:52   0:00 [afsd]
+root      2890  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_checkserver]
+root      2891  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_background]
+root      2894  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_background]
+root      2895  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_background]
+root      2896  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_background]
+root      2898  0.0  0.0      0     0 ?        S    16:52   0:00 [afs_cachetrim]
+root      2908  0.0  0.0  22228  1532 ?        Ss   16:52   0:00 /usr/bin/vmware-usbarbitrator
+root      2941  0.0  0.0  65048  1224 ?        Ss   16:52   0:00 /usr/sbin/sshd
+root      2949  0.0  0.0  22936   960 ?        Ss   16:52   0:00 xinetd -stayalive -pidfile /var/run/xinetd.pid
+ntp       2957  0.0  0.0  25572  1760 ?        Ss   16:52   0:00 ntpd -u ntp:ntp -p /var/run/ntpd.pid -g
+root      3039  0.0  0.0  80360  3356 ?        Ss   16:52   0:00 /usr/libexec/postfix/master
+postfix   3047  0.0  0.0  80228  3296 ?        S    16:52   0:00 pickup -l -t fifo -u
+postfix   3048  0.0  0.0  80296  3348 ?        S    16:52   0:00 qmgr -l -t fifo -u
+root      3063  0.0  0.0 108760   872 ?        Ss   16:52   0:00 /usr/sbin/abrtd
+root      3071  0.0  0.0 108204   980 ?        Ss   16:52   0:00 abrt-dump-oops -d /var/spool/abrt -rwx /var/log/messages
+root      3084  0.0  0.0   6736   532 ?        Ss   16:52   0:00 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      3094  0.0  0.0 106612   892 ?        S    16:52   0:00 /bin/bash /usr/sbin/ksmtuned
+root      3103  0.0  0.0 115736   988 ?        Ss   16:52   0:00 crond
+root      3114  0.0  0.0  20192   460 ?        Ss   16:52   0:00 /usr/sbin/atd
+root      3130  0.0  0.0 262640  1540 ?        Ssl  16:52   0:00 /usr/libexec/karl
+root      3160  0.0  0.0 100892   432 ?        Ss   16:52   0:00 rhnsd
+root      3168  0.0  0.0 104016   676 ?        Ss   16:52   0:00 /usr/bin/rhsmcertd
+root      3197  0.0  0.0 132584  2268 ?        Ssl  16:52   0:00 /usr/sbin/gdm-binary -nodaemon
+root      3202  0.0  0.0   4060   572 tty2     Ss+  16:52   0:00 /sbin/mingetty /dev/tty2
+root      3204  0.0  0.0   4060   572 tty3     Ss+  16:52   0:00 /sbin/mingetty /dev/tty3
+root      3206  0.0  0.0   4060   572 tty4     Ss+  16:52   0:00 /sbin/mingetty /dev/tty4
+root      3208  0.0  0.0   4060   572 tty5     Ss+  16:52   0:00 /sbin/mingetty /dev/tty5
+root      3210  0.0  0.0   4060   572 tty6     Ss+  16:52   0:00 /sbin/mingetty /dev/tty6
+root      3248  0.0  0.0 163372  3752 ?        Sl   16:52   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1 --force-active-vt
+root      3251  1.2  0.3 178260 44220 tty1     Ss+  16:52   0:02 /usr/bin/Xorg :0 -nr -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-ecooRQ/database -nolisten tcp vt1
+root      3253  0.0  0.0  10844   904 ?        S<   16:52   0:00 /sbin/udevd -d
+root      3254  0.0  0.0  10844   904 ?        S<   16:52   0:00 /sbin/udevd -d
+root      3288  0.0  0.0      0     0 ?        S    16:52   0:00 [flush-afs]
+root      3299  0.0  0.0 2084848 3712 ?        Sl   16:52   0:00 /usr/sbin/console-kit-daemon --no-daemon
+gdm       3369  0.0  0.0  18476   804 ?        S    16:52   0:00 /usr/bin/dbus-launch --exit-with-session
+gdm       3370  0.0  0.0  20188   932 ?        Ss   16:52   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+gdm       3371  0.0  0.0 266528  9592 ?        Ssl  16:52   0:00 /usr/bin/gnome-session --autostart=/usr/share/gdm/autostart/LoginWindow/
+root      3407  0.0  0.0  49820  3124 ?        S    16:52   0:00 /usr/libexec/devkit-power-daemon
+gdm       3411  0.0  0.0 132056  5908 ?        S    16:52   0:00 /usr/libexec/gconfd-2
+gdm       3429  0.0  0.0 118752  5892 ?        S    16:52   0:00 /usr/libexec/at-spi-registryd
+gdm       3430  0.2  0.1 368476 13872 ?        Ssl  16:52   0:00 /usr/libexec/gnome-settings-daemon --gconf-prefix=/apps/gdm/simple-greeter/settings-manager-plugins
+gdm       3434  0.0  0.0 356900  3628 ?        Ssl  16:52   0:00 /usr/libexec/bonobo-activation-server --ac-activate --ior-output-fd=12
+gdm       3474  0.0  0.0 135100  2188 ?        S    16:52   0:00 /usr/libexec/gvfsd
+gdm       3475  0.0  0.0 303812 10588 ?        S    16:52   0:00 metacity
+gdm       3476  0.0  0.0 270132  9424 ?        S    16:52   0:00 gnome-power-manager
+gdm       3478  0.0  0.0 244744  8100 ?        S    16:52   0:00 /usr/libexec/polkit-gnome-authentication-agent-1
+root      3485  0.0  0.0  50960  4244 ?        S    16:52   0:00 /usr/libexec/polkit-1/polkitd
+gdm       3486  0.0  0.1 434544 20228 ?        S    16:52   0:00 /usr/libexec/gdm-simple-greeter
+gdm       3490  0.0  0.0 503604  4512 ?        S<sl 16:52   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     3492  0.0  0.0 166892  1168 ?        SNl  16:52   0:00 /usr/libexec/rtkit-daemon
+root      3499  0.0  0.0 195176  3088 ?        S    16:52   0:00 pam: gdm-password
+root      3600  0.0  0.0  44964  1036 ?        Ss   16:53   0:00 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -B -u -f /var/log/wpa_supplicant.log -P /var/run/wpa_supplicant.pid
+root      3927  0.0  0.0 100904   596 ?        S    16:55   0:00 sleep 60
+root      3963  0.1  0.0 101416  4636 ?        Ss   16:55   0:00 sshd: tdecker [priv]
+tdecker   3972  0.0  0.0 101416  2104 ?        S    16:55   0:00 sshd: tdecker@notty
+tdecker   3973  0.0  0.0 111024  1436 ?        Ss   16:55   0:00 csh -c sh getData.sh
+tdecker   3989  0.0  0.0 106060  1328 ?        S    16:55   0:00 sh getData.sh
+tdecker   3994  0.0  0.0 108676  1120 ?        R    16:55   0:00 ps aux

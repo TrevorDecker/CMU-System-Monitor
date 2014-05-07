@@ -1,0 +1,7 @@
+ycp      pts/5        2014-03-01 11:06 (:pts/2:S.0)
+ycp      pts/8        2014-03-01 11:06 (:pts/2:S.1)
+shuaihan pts/11       2014-05-07 14:05 (cmu-851011.wv.cc.cmu.edu)
+mchoquet pts/34       2014-05-07 12:13 (thwmp.wv.cc.cmu.edu)
+yanzhan2 pts/40       2014-05-07 10:35 (128.237.207.30)
+mchoquet pts/42       2014-05-07 12:14 (thwmp.wv.cc.cmu.edu)
+mchoquet pts/43       2014-05-07 12:14 (thwmp.wv.cc.cmu.edu)

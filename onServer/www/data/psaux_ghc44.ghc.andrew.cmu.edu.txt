@@ -1,0 +1,339 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  21448  1236 ?        Ss   Apr14   0:04 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Apr14   0:07 [migration/0]
+root         4  0.0  0.0      0     0 ?        S    Apr14   0:16 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/0]
+root         6  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/0]
+root         7  0.0  0.0      0     0 ?        S    Apr14   0:02 [migration/1]
+root         8  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    Apr14   0:09 [ksoftirqd/1]
+root        10  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/1]
+root        11  0.0  0.0      0     0 ?        S    Apr14   0:02 [migration/2]
+root        12  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/2]
+root        13  0.0  0.0      0     0 ?        S    Apr14   0:03 [ksoftirqd/2]
+root        14  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/2]
+root        15  0.0  0.0      0     0 ?        S    Apr14   0:01 [migration/3]
+root        16  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/3]
+root        17  0.0  0.0      0     0 ?        S    Apr14   0:02 [ksoftirqd/3]
+root        18  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/3]
+root        19  0.0  0.0      0     0 ?        S    Apr14   0:03 [migration/4]
+root        20  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/4]
+root        21  0.0  0.0      0     0 ?        S    Apr14   0:01 [ksoftirqd/4]
+root        22  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/4]
+root        23  0.0  0.0      0     0 ?        S    Apr14   0:05 [migration/5]
+root        24  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/5]
+root        25  0.0  0.0      0     0 ?        S    Apr14   0:03 [ksoftirqd/5]
+root        26  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/5]
+root        27  0.0  0.0      0     0 ?        S    Apr14   0:02 [migration/6]
+root        28  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/6]
+root        29  0.0  0.0      0     0 ?        S    Apr14   0:05 [ksoftirqd/6]
+root        30  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/6]
+root        31  0.0  0.0      0     0 ?        S    Apr14   0:01 [migration/7]
+root        32  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/7]
+root        33  0.0  0.0      0     0 ?        S    Apr14   0:04 [ksoftirqd/7]
+root        34  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/7]
+root        35  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/8]
+root        36  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/8]
+root        37  0.0  0.0      0     0 ?        S    Apr14   0:03 [ksoftirqd/8]
+root        38  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/8]
+root        39  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/9]
+root        40  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/9]
+root        41  0.0  0.0      0     0 ?        S    Apr14   0:02 [ksoftirqd/9]
+root        42  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/9]
+root        43  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/10]
+root        44  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/10]
+root        45  0.0  0.0      0     0 ?        S    Apr14   0:04 [ksoftirqd/10]
+root        46  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/10]
+root        47  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/11]
+root        48  0.0  0.0      0     0 ?        S    Apr14   0:00 [migration/11]
+root        49  0.0  0.0      0     0 ?        S    Apr14   0:02 [ksoftirqd/11]
+root        50  0.0  0.0      0     0 ?        S    Apr14   0:01 [watchdog/11]
+root        51  0.0  0.0      0     0 ?        S    Apr14   5:11 [events/0]
+root        52  0.0  0.0      0     0 ?        S    Apr14   0:54 [events/1]
+root        53  0.0  0.0      0     0 ?        S    Apr14   0:53 [events/2]
+root        54  0.0  0.0      0     0 ?        S    Apr14   0:43 [events/3]
+root        55  0.0  0.0      0     0 ?        S    Apr14   0:48 [events/4]
+root        56  0.0  0.0      0     0 ?        S    Apr14   0:48 [events/5]
+root        57  0.0  0.0      0     0 ?        S    Apr14   0:50 [events/6]
+root        58  0.0  0.0      0     0 ?        S    Apr14   0:48 [events/7]
+root        59  0.0  0.0      0     0 ?        S    Apr14   1:49 [events/8]
+root        60  0.0  0.0      0     0 ?        S    Apr14   0:50 [events/9]
+root        61  0.0  0.0      0     0 ?        S    Apr14   0:52 [events/10]
+root        62  0.0  0.0      0     0 ?        S    Apr14   1:01 [events/11]
+root        63  0.0  0.0      0     0 ?        S    Apr14   0:00 [cgroup]
+root        64  0.0  0.0      0     0 ?        S    Apr14   0:00 [khelper]
+root        65  0.0  0.0      0     0 ?        S    Apr14   0:00 [netns]
+root        66  0.0  0.0      0     0 ?        S    Apr14   0:00 [async/mgr]
+root        67  0.0  0.0      0     0 ?        S    Apr14   0:00 [pm]
+root        68  0.0  0.0      0     0 ?        S    Apr14   0:05 [sync_supers]
+root        69  0.0  0.0      0     0 ?        S    Apr14   0:05 [bdi-default]
+root        70  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/0]
+root        71  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/1]
+root        72  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/2]
+root        73  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/3]
+root        74  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/4]
+root        75  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/5]
+root        76  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/6]
+root        77  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/7]
+root        78  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/8]
+root        79  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/9]
+root        80  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/10]
+root        81  0.0  0.0      0     0 ?        S    Apr14   0:00 [kintegrityd/11]
+root        82  0.0  0.0      0     0 ?        S    Apr14   0:29 [kblockd/0]
+root        83  0.0  0.0      0     0 ?        S    Apr14   0:31 [kblockd/1]
+root        84  0.0  0.0      0     0 ?        S    Apr14   1:02 [kblockd/2]
+root        85  0.0  0.0      0     0 ?        S    Apr14   1:13 [kblockd/3]
+root        86  0.0  0.0      0     0 ?        S    Apr14   1:59 [kblockd/4]
+root        87  0.0  0.0      0     0 ?        S    Apr14   5:46 [kblockd/5]
+root        88  0.0  0.0      0     0 ?        S    Apr14   0:01 [kblockd/6]
+root        89  0.0  0.0      0     0 ?        S    Apr14   0:00 [kblockd/7]
+root        90  0.0  0.0      0     0 ?        S    Apr14   0:01 [kblockd/8]
+root        91  0.0  0.0      0     0 ?        S    Apr14   0:01 [kblockd/9]
+root        92  0.0  0.0      0     0 ?        S    Apr14   0:01 [kblockd/10]
+root        93  0.0  0.0      0     0 ?        S    Apr14   0:04 [kblockd/11]
+root        94  0.0  0.0      0     0 ?        S    Apr14   0:00 [kacpid]
+root        95  0.0  0.0      0     0 ?        S    Apr14   0:00 [kacpi_notify]
+root        96  0.0  0.0      0     0 ?        S    Apr14   0:00 [kacpi_hotplug]
+root        97  0.0  0.0      0     0 ?        S    Apr14   0:08 [ata/0]
+root        98  0.0  0.0      0     0 ?        S    Apr14   0:24 [ata/1]
+root        99  0.0  0.0      0     0 ?        S    Apr14   0:44 [ata/2]
+root       100  0.0  0.0      0     0 ?        S    Apr14   1:08 [ata/3]
+root       101  0.0  0.0      0     0 ?        S    Apr14   1:05 [ata/4]
+root       102  0.0  0.0      0     0 ?        S    Apr14   5:04 [ata/5]
+root       103  0.0  0.0      0     0 ?        S    Apr14   0:04 [ata/6]
+root       104  0.0  0.0      0     0 ?        S    Apr14   0:15 [ata/7]
+root       105  0.0  0.0      0     0 ?        S    Apr14   0:25 [ata/8]
+root       106  0.0  0.0      0     0 ?        S    Apr14   0:41 [ata/9]
+root       107  0.0  0.0      0     0 ?        S    Apr14   0:36 [ata/10]
+root       108  0.0  0.0      0     0 ?        S    Apr14   3:05 [ata/11]
+root       109  0.0  0.0      0     0 ?        S    Apr14   0:00 [ata_aux]
+root       110  0.0  0.0      0     0 ?        S    Apr14   0:00 [ksuspend_usbd]
+root       111  0.0  0.0      0     0 ?        S    Apr14   0:00 [khubd]
+root       112  0.0  0.0      0     0 ?        S    Apr14   0:00 [kseriod]
+root       113  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/0]
+root       114  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/1]
+root       115  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/2]
+root       116  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/3]
+root       117  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/4]
+root       118  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/5]
+root       119  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/6]
+root       120  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/7]
+root       121  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/8]
+root       122  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/9]
+root       123  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/10]
+root       124  0.0  0.0      0     0 ?        S    Apr14   0:00 [md/11]
+root       125  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/0]
+root       126  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/1]
+root       127  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/2]
+root       128  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/3]
+root       129  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/4]
+root       130  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/5]
+root       131  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/6]
+root       132  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/7]
+root       133  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/8]
+root       134  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/9]
+root       135  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/10]
+root       136  0.0  0.0      0     0 ?        S    Apr14   0:00 [md_misc/11]
+root       137  0.0  0.0      0     0 ?        S    Apr14   0:01 [khungtaskd]
+root       138  0.0  0.0      0     0 ?        S    Apr14  15:32 [kswapd0]
+root       139  0.0  0.0      0     0 ?        SN   Apr14   0:00 [ksmd]
+root       140  0.0  0.0      0     0 ?        SN   Apr14   0:59 [khugepaged]
+root       141  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/0]
+root       142  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/1]
+root       143  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/2]
+root       144  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/3]
+root       145  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/4]
+root       146  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/5]
+root       147  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/6]
+root       148  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/7]
+root       149  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/8]
+root       150  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/9]
+root       151  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/10]
+root       152  0.0  0.0      0     0 ?        S    Apr14   0:00 [aio/11]
+root       153  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/0]
+root       154  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/1]
+root       155  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/2]
+root       156  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/3]
+root       157  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/4]
+root       158  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/5]
+root       159  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/6]
+root       160  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/7]
+root       161  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/8]
+root       162  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/9]
+root       163  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/10]
+root       164  0.0  0.0      0     0 ?        S    Apr14   0:00 [crypto/11]
+root       169  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/0]
+root       170  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/1]
+root       171  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/2]
+root       172  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/3]
+root       173  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/4]
+root       174  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/5]
+root       175  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/6]
+root       176  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/7]
+root       177  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/8]
+root       178  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/9]
+root       179  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/10]
+root       180  0.0  0.0      0     0 ?        S    Apr14   0:00 [kthrotld/11]
+root       182  0.0  0.0      0     0 ?        S    Apr14   0:00 [kpsmoused]
+root       183  0.0  0.0      0     0 ?        S    Apr14   0:00 [usbhid_resumer]
+root       215  0.0  0.0      0     0 ?        S    Apr14   0:00 [kstriped]
+root       371  0.0  0.0      0     0 ?        S    Apr14  14:42 [scsi_eh_0]
+root       372  0.0  0.0      0     0 ?        S    Apr14  13:54 [scsi_eh_1]
+root       374  0.0  0.0      0     0 ?        S    Apr14   0:00 [scsi_eh_2]
+root       375  0.0  0.0      0     0 ?        S    Apr14   0:00 [scsi_eh_3]
+root       465  0.0  0.0      0     0 ?        S    Apr14   0:26 [kdmflush]
+root       482  0.0  0.0      0     0 ?        S    Apr14  19:26 [flush-253:0]
+root       483  0.0  0.0      0     0 ?        D    Apr14   4:45 [jbd2/dm-0-8]
+root       484  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       485  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       486  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       487  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       488  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       489  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       490  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       491  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       492  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       493  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       494  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       495  0.0  0.0      0     0 ?        S    Apr14   0:00 [ext4-dio-unwrit]
+root       588  0.0  0.0  11000   600 ?        S<s  Apr14   0:00 /sbin/udevd -d
+root       806  0.0  0.0      0     0 ?        S    Apr14   0:00 [edac-poller]
+root       835  0.0  0.0      0     0 ?        S    Apr14   0:00 [hd-audio0]
+root      1134  0.0  0.0      0     0 ?        S    Apr14   0:00 [kvm-irqfd-clean]
+root      1185  0.0  0.0      0     0 ?        S    Apr14   0:00 [kjournald]
+root      1312  0.0  0.0      0     0 ?        S    Apr14   0:05 [kauditd]
+root      1617  0.0  0.0  93200   728 ?        S<sl Apr14   0:19 auditd
+root      1642  0.0  0.0 257860  4060 ?        Sl   Apr14   4:11 /sbin/rsyslogd -i /var/run/syslogd.pid -c 5
+root      1671  0.0  0.0  10828   592 ?        Ss   Apr14   4:26 irqbalance --pid=/var/run/irqbalance.pid
+rpc       1685  0.0  0.0  18976   792 ?        Ss   Apr14   0:01 rpcbind
+dbus      2178  0.0  0.0  24596  1872 ?        Ss   Apr14   0:13 dbus-daemon --system
+root      2188  0.0  0.0 102720  4864 ?        Ssl  Apr14   0:03 NetworkManager --pid-file=/var/run/NetworkManager/NetworkManager.pid
+root      2192  0.0  0.0  58048  2120 ?        S    Apr14   0:00 /usr/sbin/modem-manager
+rpcuser   2207  0.0  0.0  23348   936 ?        Ss   Apr14   0:00 rpc.statd
+nslcd     2216  0.0  0.0 450968  2540 ?        Ssl  Apr14   6:41 /usr/sbin/nslcd
+root      2235  0.0  0.0   9120   804 ?        S    Apr14   0:00 /sbin/dhclient -d -4 -sf /usr/libexec/nm-dhcp-client.action -pf /var/run/dhclient-eth0.pid -lf /var/lib/dhclient/dhclient-5fb06bd0-0bb0-7ffb-45f1-d6edd65f3e03-eth0.lease -cf /var/run/nm-dhclient-eth0.conf eth0
+root      2263  0.0  0.0 195952  2728 ?        Ss   Apr14   0:00 cupsd -C /etc/cups/cupsd.conf
+root      2288  0.0  0.0   4080   600 ?        Ss   Apr14   0:00 /usr/sbin/acpid
+68        2297  0.0  0.0  41120  4204 ?        Ssl  Apr14   0:10 hald
+root      2298  0.0  0.0  20324  1024 ?        S    Apr14   0:00 hald-runner
+root      2387  0.0  0.0  22444   964 ?        S    Apr14   0:29 hald-addon-input: Listening on /dev/input/event5 /dev/input/event4 /dev/input/event0 /dev/input/event1
+68        2391  0.0  0.0  17932   832 ?        S    Apr14   0:00 hald-addon-acpi: listening on acpid socket /var/run/acpid.socket
+root      2392  0.0  0.0  22440   968 ?        S    Apr14   9:29 hald-addon-storage: polling /dev/sr0 (every 2 sec)
+root      2393  0.0  0.0  22440   968 ?        S    Apr14   9:19 hald-addon-storage: polling /dev/sr1 (every 2 sec)
+root      2415  0.0  0.0  91272   900 ?        Ssl  Apr14   0:00 pcscd
+root      2431  0.0  0.0 456596  1052 ?        Ssl  Apr14   0:18 automount --pid-file /var/run/autofs.pid
+nscd      2448  0.0  0.0 1172972 1820 ?        Ssl  Apr14   1:13 /usr/sbin/nscd
+root      2802  0.0  0.0   4360   348 ?        Ss   Apr14   0:00 /usr/sbin/mcelog --daemon
+root      2812  0.0  0.0      0     0 ?        S    Apr14   0:01 [afs_pagecopy]
+root      2818  0.0  0.0      0     0 ?        S    Apr14   2:36 [afs_rxlistener]
+root      2819  0.0  0.0      0     0 ?        S    Apr14   0:02 [afs_callback]
+root      2820  0.0  0.0      0     0 ?        S    Apr14   0:58 [afs_rxevent]
+root      2821  0.0  0.0   6772   556 ?        Ss   Apr14   0:00 /usr/vice/etc/afsd -dynroot -fakestat -afsdb
+root      2826  0.0  0.0      0     0 ?        S    Apr14   1:19 [afsd]
+root      2828  0.0  0.0      0     0 ?        S    Apr14   0:36 [afs_checkserver]
+root      2830  0.0  0.0      0     0 ?        S    Apr14   0:09 [afs_background]
+root      2831  0.0  0.0      0     0 ?        S    Apr14   0:09 [afs_background]
+root      2832  0.0  0.0      0     0 ?        S    Apr14   0:09 [afs_background]
+root      2833  0.0  0.0      0     0 ?        S    Apr14   0:09 [afs_background]
+root      2835  0.0  0.0      0     0 ?        S    Apr14   0:14 [afs_cachetrim]
+root      2855  0.0  0.0  22604   804 ?        Ss   Apr14   0:10 xinetd -stayalive -pidfile /var/run/xinetd.pid
+ntp       2863  0.0  0.0  25240  1020 ?        Ss   Apr14   0:02 ntpd -u ntp:ntp -p /var/run/ntpd.pid -g
+jihyel    2868  0.0  0.0 925020 10700 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+root      2943  0.0  0.0  80024  1372 ?        Ss   Apr14   0:07 /usr/libexec/postfix/master
+postfix   2950  0.0  0.0  80168  1552 ?        S    Apr14   0:03 qmgr -l -t fifo -u
+root      2967  0.0  0.0 108524   924 ?        Ss   Apr14   0:07 /usr/sbin/abrtd
+root      2975  0.0  0.0 108204   768 ?        Ss   Apr14   0:31 abrt-dump-oops -d /var/spool/abrt -rwx /var/log/messages
+root      2988  0.0  0.0   6736   448 ?        Ss   Apr14   0:21 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      3007  0.0  0.0 117512   752 ?        Ss   Apr14   0:02 crond
+root      3018  0.0  0.0  19860   304 ?        Ss   Apr14   0:00 /usr/sbin/atd
+root      3034  0.0  0.0 686800  2260 ?        Ssl  Apr14   0:14 /usr/libexec/karl
+root      3056  0.0  0.0 100920   652 ?        Ss   Apr14   0:00 rhnsd
+root      3064  0.0  0.0 104016   584 ?        Ss   Apr14   0:00 /usr/bin/rhsmcertd
+root      3098  0.0  0.0 112920  1468 ?        Sl   Apr14  24:23 spiceusbsrvd
+root      3101  0.0  0.0 132256  1888 ?        Ssl  Apr14   0:00 /usr/sbin/gdm-binary -nodaemon
+root      3106  0.0  0.0   4060   488 tty2     Ss+  Apr14   0:00 /sbin/mingetty /dev/tty2
+root      3108  0.0  0.0   4060   488 tty3     Ss+  Apr14   0:00 /sbin/mingetty /dev/tty3
+root      3110  0.0  0.0   4060   488 tty4     Ss+  Apr14   0:00 /sbin/mingetty /dev/tty4
+root      3112  0.0  0.0   4060   488 tty5     Ss+  Apr14   0:00 /sbin/mingetty /dev/tty5
+root      3114  0.0  0.0   4060   488 tty6     Ss+  Apr14   0:00 /sbin/mingetty /dev/tty6
+root      3174  0.0  0.0 4184612 3180 ?        Sl   Apr14   0:03 /usr/sbin/console-kit-daemon --no-daemon
+root      3249  0.0  0.0  50312  2748 ?        S    Apr14   0:00 /usr/libexec/devkit-power-daemon
+root      3296  0.0  0.0  55564  3112 ?        S    Apr14   0:03 /usr/libexec/polkit-1/polkitd
+rtkit     3300  0.0  0.0 166560  1084 ?        SNl  Apr14   0:33 /usr/libexec/rtkit-daemon
+root      3310  0.0  0.0  44960   404 ?        Ss   Apr14   0:00 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -B -u -f /var/log/wpa_supplicant.log -P /var/run/wpa_supplicant.pid
+hadoop    3536  0.0  1.4 8386920 177136 ?      SNl  Apr14  29:27 /usr/lib/jvm/java/bin/java -Dproc_tasktracker -Xmx2000m -Dhadoop.log.dir=/var/local/hadoop/logs -Dhadoop.log.file=hadoop-hadoop-tasktracker-ghc44.ghc.andrew.cmu.edu.log -Dhadoop.home.dir=/usr/local/hadoop-1.0.1/libexec/.. -Dhadoop.id.str=hadoop -Dhadoop.root.logger=INFO,DRFA -Dhadoop.security.logger=INFO,NullAppender -Djava.library.path=/usr/local/hadoop-1.0.1/libexec/../lib/native/Linux-amd64-64 -Dhadoop.policy.file=hadoop-policy.xml -classpath /usr/local/hadoop-1.0.1/libexec/../conf:/usr/lib/jvm/java/lib/tools.jar:/usr/local/hadoop-1.0.1/libexec/..:/usr/local/hadoop-1.0.1/libexec/../hadoop-core-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/asm-3.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjrt-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/aspectjtools-1.6.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-1.7.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-beanutils-core-1.8.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-cli-1.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-codec-1.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-collections-3.2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-configuration-1.6.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-daemon-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-digester-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-el-1.0.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-httpclient-3.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-lang-2.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-1.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-logging-api-1.0.4.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-math-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/commons-net-1.4.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/core-3.1.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-capacity-scheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-fairscheduler-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hadoop-thriftfs-1.0.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/hsqldb-1.8.0.10.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-core-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jackson-mapper-asl-1.8.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-compiler-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jasper-runtime-5.5.12.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jdeb-0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-core-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-json-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jersey-server-1.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jets3t-0.6.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jetty-util-6.1.26.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsch-0.1.42.jar:/usr/local/hadoop-1.0.1/libexec/../lib/junit-4.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/kfs-0.2.2.jar:/usr/local/hadoop-1.0.1/libexec/../lib/log4j-1.2.15.jar:/usr/local/hadoop-1.0.1/libexec/../lib/mockito-all-1.8.5.jar:/usr/local/hadoop-1.0.1/libexec/../lib/oro-2.0.8.jar:/usr/local/hadoop-1.0.1/libexec/../lib/servlet-api-2.5-20081211.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-api-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/slf4j-log4j12-1.4.3.jar:/usr/local/hadoop-1.0.1/libexec/../lib/xmlenc-0.52.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-2.1.jar:/usr/local/hadoop-1.0.1/libexec/../lib/jsp-2.1/jsp-api-2.1.jar org.apache.hadoop.mapred.TaskTracker
+root      5372  0.0  0.0  11000   628 ?        S<   May05   0:00 /sbin/udevd -d
+root      5373  0.0  0.0  11000   632 ?        S<   May05   0:00 /sbin/udevd -d
+dsisson   7317  0.0  0.0 859480  2616 ?        Sl   Apr15   0:00 /usr/libexec/e-calendar-factory
+bhoane    8089  0.0  0.0  63088  2424 ?        Sl   Apr22   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+srw       8254  0.0  0.0 925020  9088 ?        Sl   Apr23   0:00 /usr/libexec/e-calendar-factory
+root      9844  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/0]
+root      9845  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/1]
+root      9846  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/2]
+root      9847  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/3]
+root      9848  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/4]
+root      9849  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/5]
+root      9850  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/6]
+root      9851  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/7]
+root      9852  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/8]
+root      9853  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/9]
+root      9854  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/10]
+root      9855  0.0  0.0      0     0 ?        S    Apr14   0:00 [iprt/11]
+sacunnin  9905  0.0  0.0 859484  9092 ?        Sl   Apr21   0:00 /usr/libexec/e-calendar-factory
+root      9913  0.0  0.0 106660  1136 ?        S    Apr14   0:43 /bin/bash /usr/sbin/ksmtuned
+aefernan 10335  0.0  0.0 728412 11968 ?        Sl   May05   0:00 /usr/libexec/e-calendar-factory
+root     10516  0.0  0.0  55684  2696 ?        Sl   Apr14   1:50 /usr/libexec/udisks-daemon
+root     10520  0.0  0.0  45032   528 ?        S    Apr14   9:05 udisks-daemon: polling /dev/sr0 /dev/sr1
+jcolmar  10554  0.0  0.0 925020  2604 ?        Sl   Apr14   0:00 /usr/libexec/e-calendar-factory
+mserrano 10946  0.0  0.0 859484  9076 ?        Sl   Apr20   0:00 /usr/libexec/e-calendar-factory
+shuaihan 10993  0.0  0.0  63088  2816 ?        Sl   13:27   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+shuaihan 11005  0.0  0.0 111216  1780 ?        Ss   13:27   0:00 -/bin/csh -c xmonad-start
+shuaihan 11013  0.0  0.0  18144   800 ?        S    13:27   0:00 dbus-launch --sh-syntax --exit-with-session
+shuaihan 11014  0.0  0.0  19724   536 ?        Ss   13:27   0:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+shuaihan 11060  0.0  0.0 266656  4560 ?        Sl   13:27   0:00 /usr/libexec/kamsg
+shuaihan 11061  0.0  0.0 185908  2008 ?        Sl   13:27   0:00 /usr/libexec/KeyAccess
+shuaihan 11073  0.0  0.0  57704   724 ?        Ss   13:27   0:00 /usr/bin/ssh-agent /bin/sh -c exec -l /bin/csh -c "xmonad-start"
+shuaihan 11103  0.0  0.0   9196  1260 ?        S    13:27   0:00 /bin/sh /usr/bin/xmonad-start
+shuaihan 11104  0.0  0.0  89680  3444 ?        S    13:27   0:00 xmonad
+shuaihan 11108  0.0  0.0  37668  2048 ?        S    13:27   0:00 xmessage -default okay Error detected while loading xmonad configuration file: /afs/andrew.cmu.edu/usr12/shuaihan/.xmonad/xmonad.hs??xmonad.hs:10:8:?    Could not find module `XMonad.Config.Xfce'?    Use -v to see a list of the files searched for.??Please check the file for errors.?
+root     11200  0.0  0.0 103176  4688 ?        Ss   13:35   0:00 sshd: shuaihan [priv]
+shuaihan 11222  0.0  0.0 103176  2200 ?        S    13:37   0:00 sshd: shuaihan@pts/0
+shuaihan 11223  0.0  0.0 111528  2320 pts/0    Ss   13:37   0:00 -csh
+postfix  12695  0.0  0.0  79896  3304 ?        S    13:49   0:00 pickup -l -t fifo -u
+huiying1 13692  0.0  0.1 728412 14032 ?        Sl   May04   0:00 /usr/libexec/e-calendar-factory
+kleino   14435  0.0  0.0 362824  2992 ?        Ssl  May03   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+kleino   14462  0.0  0.0  93388  3496 ?        S    May03   0:00 /usr/libexec/pulse/gconf-helper
+root     16057  0.0  0.0      0     0 ?        S    14:39   0:00 [flush-afs]
+root     16661  0.0  0.0 100904   596 ?        S    14:42   0:00 sleep 60
+shuaihan 16663  0.2  0.0  45024  4232 pts/0    S+   14:42   0:00 vim c.sh
+root     16695  0.1  0.0 101084  4648 ?        Ss   14:42   0:00 sshd: tdecker [priv]
+tdecker  16706  0.0  0.0 101084  2100 ?        S    14:42   0:00 sshd: tdecker@notty
+tdecker  16707  0.0  0.0 110764  1436 ?        Ss   14:42   0:00 csh -c sh getData.sh
+tdecker  16723  0.0  0.0 106060  1328 ?        S    14:42   0:00 sh getData.sh
+tdecker  16728  0.0  0.0 108336  1124 ?        R    14:42   0:00 ps aux
+jnaviask 17338  0.0  0.0 925020 10660 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory
+dsisson  17469  0.0  0.0 925020  2616 ?        Sl   Apr15   0:00 /usr/libexec/e-calendar-factory
+sacunnin 18571  0.0  0.0 728412 10916 ?        Sl   Apr30   0:00 /usr/libexec/e-calendar-factory
+ppearson 19554  0.0  0.0 859484  9080 ?        Sl   Apr21   0:00 /usr/libexec/e-calendar-factory
+ccrother 20085  0.0  0.0 793948  2604 ?        Sl   Apr15   0:00 /usr/libexec/e-calendar-factory
+srw      21100  0.0  0.0 859484 11308 ?        Sl   Apr24   0:00 /usr/libexec/e-calendar-factory
+sacunnin 21520  0.0  0.1 859484 14032 ?        Sl   May06   0:00 /usr/libexec/e-calendar-factory
+root     21570  0.0  0.0  64716   620 ?        Ss   Apr14   0:04 /usr/sbin/sshd
+rmalia   22213  0.0  0.0 859484 10048 ?        Sl   Apr29   0:00 /usr/libexec/e-calendar-factory
+huiying1 23916  0.0  0.0 925020 11436 ?        Sl   Apr25   0:00 /usr/libexec/e-calendar-factory
+mserrano 25021  0.0  0.1 925020 14024 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory
+root     25462  0.0  0.0 163064  3812 ?        Sl   May06   0:00 /usr/libexec/gdm-simple-slave --display-id /org/gnome/DisplayManager/Display1
+root     25464  0.0  0.3 171128 42308 tty7     Ss+  May06   0:04 /usr/bin/Xorg :0 -br -verbose -audit 4 -auth /var/run/gdm/auth-for-gdm-woPVb8/database -nolisten tcp
+gdm      25485  0.0  0.0  18144   796 ?        S    May06   0:00 /usr/bin/dbus-launch --exit-with-session
+root     25545  0.0  0.0 210400  4484 ?        Sl   May06   0:00 pam: gdm-password
+eforney  25906  0.0  0.0 728412 11840 ?        Sl   May01   0:00 /usr/libexec/e-calendar-factory
+sctoor   25981  0.0  0.0 793948  2616 ?        Sl   Apr15   0:00 /usr/libexec/e-calendar-factory
+huiying1 26902  0.0  0.0 859484 11060 ?        Sl   May02   0:00 /usr/libexec/e-calendar-factory
+dsisson  27394  0.0  0.0 859484  2616 ?        Sl   Apr15   0:00 /usr/libexec/e-calendar-factory
+huiying1 28381  0.0  0.1 859484 14124 ?        Sl   May03   0:00 /usr/libexec/e-calendar-factory
+eforney  28715  0.0  0.0 925020  2604 ?        Sl   Apr16   0:00 /usr/libexec/e-calendar-factory
+sacunnin 30074  0.0  0.0 793948 12012 ?        Sl   Apr29   0:00 /usr/libexec/e-calendar-factory
+eforney  30268  0.0  0.0 793948  2604 ?        Sl   Apr16   0:00 /usr/libexec/e-calendar-factory
+sjindel  32138  0.0  0.0  63088  1688 ?        Sl   Apr15   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+sacunnin 32226  0.0  0.1 925020 14100 ?        Sl   Apr28   0:00 /usr/libexec/e-calendar-factory

@@ -1,0 +1,68 @@
+<a href= "http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/16311/www/current/labs/lab02/">Lab 2 Instructions</a>
+<a href= "http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/16311/www/current/hw/hw3/hw3.html">Homework 3 Instructions</a>
+
+<h1>LAB 2</h1>
+<p>Mona Lisa Before</p>
+<p><img src="mona.jpg" /></p>
+<p>Mona Lisa Thresholded at 80 differing black and white</p>
+<p><img src ="monaThreshold.jpg" /></p>
+<p>Mona Lisa Contrast Increased</p>
+<p><img src ="monaContrast.jpg" /></p>
+<p>Mona Lisa Histogram</p>
+<p><img src ="histMona.jpg" /></p>
+
+<p>Letter F</p>
+<p><img src="letterF.jpg" /></P>
+<p>Letter F Thresholded at 9 and below being white.</p>
+<p><img src="letterFThresholding.jpg" /></P>
+<p>Letter F Contrast Increased</p>
+<p><img src="FContrast.jpg" /></p>
+<p>Letter F Histogram</p>
+<p><img src ="Fhsit.jpg" /></p>
+
+<p>Another Image, a picture of an office</p>
+<p><img src="low-Contrast.jpg" /></p>
+<p>Thresholeded at 175</p>
+<p><img src="low-Threshold.jpg" /></p>
+<p>Contrasted</p>
+<p><img src="high-Contrast.jpg" /></p>
+<p>Histogram</p>
+<p><img src="lowContrastHist.jpg" /></p>
+
+<p>Source Code:</p>
+<p><a href="Thresholding.m">Thresholding Code </a></P>
+<p><a href="Contrasting.m">Contrasting </a></p>
+<p><a href="histogram.m">Histogram </a></p>
+
+<p><h1> HomeWork 3 </h1></p>
+<p>1. A)</P>
+
+<p>[1/9, 1/9, 1/9;</p>
+<p>1/9, 1/9, 1/9;</p>
+<p>1/9, 1/9, 1/9;]</p>
+
+<p>1. B)</p>
+<p> Blur</p>
+
+<p>1. C)</p>
+<p> information has been lost, you can not perfectly recreate the original image</p>
+
+<p>1. D)</p>
+<p>[1/18,  1/18, 1/18;</p>
+<p>  1/18,  10/18,  1/18;</p>
+<p> 1/18,    1/18,   1/18;]</p>
+
+<p>#2</p>
+<p> The martian is 22.2" away from pathfinder</p>
+<p><img src="num2.jpg"></p>
+
+<p>#3</p>
+<p> Prove f*(g*i) == g*(f*i) where * is the convolution operator
+Let f be the matrix [0,1,1], g = the matrix [0,2,2,0,1,1,3], and i = the matrix [0,1,2,3,4,5,6,7,8]</p>
+
+<p>f*(g*i) = [0,1,1]*([0,2,2,0,1,1,3]*[0,1,2,3,4,5,6,7,8]) = [0,1,1]*([0,2,2,0,1,1,3]*[0,1,2,3,4,5,6,7,8]) = [0,1,1]*[0,0,2,6,10,15,21,30,39,48,39,28,33,29,24] = [0,0,0,2,8,16,25,36,51,69,87,87,67,61,62,53,24]</p>
+
+<p>(f*i)*g = ([0,1,1]*[0,2,2,0,1,1,3])*[0,1,2,3,4,5,6,7,8] = [0,0,2,4,2,1,2,4,3]*[0,1,2,3,4,5,6,7,8] = [0,0,0,2,8,16,25,36,51,69,87,67,61,62,53,24]</P>
+
+<p> Both f*(g*i) and g*(f*i) result in the same matrix so the  convolution operator must be communitive</p>
+
